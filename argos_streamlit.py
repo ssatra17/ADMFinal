@@ -5,6 +5,7 @@ import io
 import joblib
 import pandas as pd
 from RLRMC_fapi import predict
+import uvicorn
 
 st.markdown('<style>  body {background-color: black; color: black}</style>', unsafe_allow_html=True)
 choices = [' ','EDA & Visualizations','Customer Segmentation','Customer Lifetime Value','Next Purchase Day','Recommendation System']
