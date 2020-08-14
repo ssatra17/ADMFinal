@@ -1,4 +1,4 @@
-import streamlit as st
+    import streamlit as st
 import requests
 from PIL import Image
 import io
@@ -39,20 +39,20 @@ if selection == 'EDA & Visualizations':
     days = Image.open('dashboard.png')
     st.image(days,use_column_width=True)
     st.header('Visualization based on Month, Day and Hour')
-    month = Image.open('Months.jpg')
+    month = Image.open('Months.PNG')
     st.image(month,use_column_width=True)
-    day = Image.open('Days.jpg')
+    day = Image.open('Days.PNG')
     st.image(day,use_column_width=True)
-    hour = Image.open('Hours.jpg')
+    hour = Image.open('Hours.PNG')
     st.image(hour,use_column_width=True)
     st.header('Visualization based spendings and number of orders (Country-wise)')
-    order1 = Image.open('countries_orders.jpg')
+    order1 = Image.open('countries_orders.PNG')
     st.image(order1,use_column_width=True)
-    order2 = Image.open('countries_orders_woUK.jpg')
+    order2 = Image.open('countries_orders_woUK.PNG')
     st.image(order2,use_column_width=True)
-    spent1 = Image.open('spendings_Countries.jpg')
+    spent1 = Image.open('spendings_Countries.PNG')
     st.image(spent1,use_column_width=True)
-    spent2 = Image.open('Spending_Countries_woUK.jpg')
+    spent2 = Image.open('Spending_Countries_woUK.PNG')
     st.image(spent2,use_column_width=True)
     st.header('Insights:')
     st.write('1.The customer with the highest number of orders(~181K) comes from the United Kingdom (UK)')
