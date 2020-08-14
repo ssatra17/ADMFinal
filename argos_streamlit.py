@@ -70,7 +70,7 @@ if selection == 'Recommendation System':
     st.header('Recomendation System using Riemannian Low-rank Matrix Completion(RLRMC) algorithm')
     title = st.number_input('Enter Customer ID',min_value = 0,max_value=100000,value = 0,step =1)
     pro = st.number_input('Enter Product ID',min_value = 0,max_value=1000000,value = 0,step =1)
-    url = 'http://0.0.0.0:5000/'
+    url = 'http://127.0.0.1:8000/'
     endpoint = 'predict/'
     if st.button('Get Predictions'):
         segments = get_data(title,pro)
@@ -90,7 +90,7 @@ if selection == 'Customer Segmentation':
     stats = pd.read_csv('RFM_Stats.csv')
     if st.button("Get RFM stats"):
         st.write(stats)
-        cs1 = Image.open('RFM.png')
+        cs1 = Image.open('RFM.PNG')
         st.write('Tree Map showing Customer Segmentation:')
         st.image(cs1, caption='Customer Segmentation',use_column_width=True)
     cs= pd.read_csv('RFM_Segmentation.csv')
