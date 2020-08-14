@@ -1,0 +1,3166 @@
+CustomerID,Recency,Frequency,Monetary,RFM_Level
+12347,129,3,55.16,Champions
+12348,75,2,250,Can't Loose Them
+12352,72,6,498.8,Can't Loose Them
+12353,204,1,19.9,Needs Attention
+12354,232,1,20.8,Needs Attention
+12355,214,1,30,Needs Attention
+12356,245,1,26.4,Needs Attention
+12358,150,1,15,Needs Attention
+12359,189,1,20.8,Needs Attention
+12360,112,2,31,Loyal
+12362,72,4,59.55,Can't Loose Them
+12363,109,2,85.26,Champions
+12364,78,2,60,Can't Loose Them
+12370,274,1,60.48,Promising
+12372,71,2,66.72,Can't Loose Them
+12375,98,1,33.2,Potential
+12378,129,1,12.6,Needs Attention
+12379,81,2,92.7,Can't Loose Them
+12380,78,2,37.3,Can't Loose Them
+12381,119,1,19.9,Promising
+12383,184,3,52.24,Loyal
+12384,121,1,25,Promising
+12388,75,3,95.88,Can't Loose Them
+12390,79,1,19.8,Loyal
+12393,72,2,36,Can't Loose Them
+12394,217,1,23.4,Needs Attention
+12395,112,5,91.8,Can't Loose Them
+12397,135,1,14.85,Needs Attention
+12399,119,4,136.2,Can't Loose Them
+12405,148,1,12.48,Needs Attention
+12406,183,1,35.4,Needs Attention
+12407,134,4,173.24,Can't Loose Them
+12408,98,4,76.9,Can't Loose Them
+12409,78,3,146.55,Can't Loose Them
+12412,74,3,44.76,Can't Loose Them
+12413,236,1,16.5,Require Activation
+12414,217,2,118.8,Loyal
+12415,99,12,3999.7,Can't Loose Them
+12417,106,5,76.1,Can't Loose Them
+12418,112,1,10.08,Promising
+12421,114,2,47.7,Champions
+12422,95,2,34.2,Loyal
+12423,100,5,50.03,Can't Loose Them
+12424,162,2,229.14,Champions
+12425,78,1,8.5,Potential
+12426,194,1,17.7,Needs Attention
+12428,120,8,760.12,Can't Loose Them
+12429,172,2,26.58,Potential
+12431,119,6,203.94,Can't Loose Them
+12432,170,3,810.4,Can't Loose Them
+12433,91,1,10.08,Promising
+12434,84,2,32.7,Champions
+12435,79,2,464.4,Can't Loose Them
+12436,99,1,12.6,Promising
+12437,78,8,304.4,Can't Loose Them
+12438,140,1,19.8,Promising
+12444,85,3,143.55,Can't Loose Them
+12447,243,1,19.5,Needs Attention
+12449,91,3,87.5,Can't Loose Them
+12450,156,2,76.2,Loyal
+12451,218,1,15,Require Activation
+12453,134,1,19.8,Promising
+12455,73,4,79.52,Can't Loose Them
+12456,131,2,30.9,Potential
+12457,81,6,617.65,Can't Loose Them
+12458,71,1,30,Loyal
+12461,94,2,213.52,Can't Loose Them
+12463,175,3,58.86,Champions
+12464,106,4,122.6,Can't Loose Them
+12465,169,1,13.2,Needs Attention
+12468,187,1,13.2,Require Activation
+12471,78,14,856.68,Can't Loose Them
+12472,138,3,45.3,Champions
+12473,114,2,28.2,Loyal
+12474,98,9,153.45,Can't Loose Them
+12476,84,4,176,Can't Loose Them
+12477,100,2,35.7,Loyal
+12480,143,2,30,Potential
+12481,179,5,115.92,Can't Loose Them
+12483,98,5,191.26,Can't Loose Them
+12484,100,3,160.4,Can't Loose Them
+12488,75,1,17.7,Loyal
+12490,93,5,152.3,Can't Loose Them
+12492,105,1,13.5,Promising
+12493,165,2,41.46,Loyal
+12494,161,2,30.38,Potential
+12497,81,1,177.6,Can't Loose Them
+12500,106,4,349.74,Can't Loose Them
+12502,95,4,282.9,Can't Loose Them
+12506,232,1,7.95,Require Activation
+12507,134,2,72.25,Loyal
+12510,142,1,162.72,Loyal
+12513,112,1,8.5,Promising
+12514,267,1,35.7,Needs Attention
+12516,77,2,145.28,Can't Loose Them
+12517,73,3,51.21,Can't Loose Them
+12518,77,2,25.68,Champions
+12520,79,5,60.34,Can't Loose Them
+12521,142,1,15.3,Needs Attention
+12523,79,6,117.15,Can't Loose Them
+12524,162,4,93.47,Can't Loose Them
+12526,94,1,20.8,Potential
+12527,81,1,34,Loyal
+12528,114,3,63.6,Can't Loose Them
+12530,123,2,36.7,Loyal
+12534,130,1,16.5,Needs Attention
+12535,91,2,61.55,Champions
+12539,262,1,17.7,Needs Attention
+12540,77,10,345.7,Can't Loose Them
+12541,173,2,27.7,Potential
+12545,75,2,34.9,Champions
+12546,77,1,17.4,Loyal
+12547,197,2,50.4,Potential
+12548,166,1,17.4,Promising
+12550,79,1,20.8,Loyal
+12553,110,5,115.05,Can't Loose Them
+12556,151,1,12.5,Needs Attention
+12557,158,2,271.58,Champions
+12560,112,2,158.5,Can't Loose Them
+12562,81,4,130.06,Can't Loose Them
+12564,261,1,23.4,Needs Attention
+12566,86,1,15,Promising
+12567,96,6,108.94,Can't Loose Them
+12569,92,15,296.53,Can't Loose Them
+12571,121,1,10.2,Needs Attention
+12573,227,1,8.4,Require Activation
+12576,95,3,52.38,Can't Loose Them
+12579,78,1,15.9,Potential
+12580,246,1,19.8,Needs Attention
+12582,238,1,10.2,Require Activation
+12583,70,8,251.42,Can't Loose Them
+12584,80,5,80,Can't Loose Them
+12585,234,1,54.08,Promising
+12589,144,1,10,Needs Attention
+12590,211,2,760.6,Loyal
+12592,92,2,42,Champions
+12593,108,3,52.8,Can't Loose Them
+12594,121,6,210.66,Can't Loose Them
+12596,242,1,10.5,Require Activation
+12597,183,2,96.5,Potential
+12598,71,4,102.92,Can't Loose Them
+12599,126,4,145.8,Can't Loose Them
+12600,84,6,178.8,Can't Loose Them
+12601,189,3,125.4,Champions
+12604,79,2,45.3,Can't Loose Them
+12609,78,2,29.16,Champions
+12610,106,2,30,Loyal
+12612,74,1,62.55,Champions
+12613,197,4,104.73,Can't Loose Them
+12614,277,1,9.95,Require Activation
+12615,71,2,48.2,Can't Loose Them
+12616,95,1,10,Promising
+12619,77,7,821.77,Can't Loose Them
+12620,80,2,38.1,Can't Loose Them
+12621,81,13,467.9,Can't Loose Them
+12622,232,1,20.8,Needs Attention
+12623,276,1,15.6,Require Activation
+12624,106,2,25.5,Loyal
+12625,211,1,60,Promising
+12626,112,4,87.02,Can't Loose Them
+12627,96,5,157.05,Can't Loose Them
+12633,129,2,25.48,Potential
+12635,89,2,27.36,Loyal
+12637,91,6,157.82,Can't Loose Them
+12639,238,1,15,Require Activation
+12640,81,1,15.3,Potential
+12641,115,1,14.85,Promising
+12642,107,1,30,Potential
+12643,128,5,201.36,Can't Loose Them
+12644,129,1,17.4,Promising
+12645,109,2,87.3,Champions
+12647,78,7,252.53,Can't Loose Them
+12648,154,1,10.2,Needs Attention
+12649,107,3,104.1,Can't Loose Them
+12653,148,1,30,Promising
+12654,197,2,23.5,Promising
+12656,72,4,170.6,Can't Loose Them
+12657,78,1,19.9,Loyal
+12662,107,5,91.7,Can't Loose Them
+12664,87,3,320.4,Can't Loose Them
+12668,259,1,35.4,Needs Attention
+12669,150,3,1170.3,Can't Loose Them
+12670,98,3,108.3,Can't Loose Them
+12674,91,3,150.66,Can't Loose Them
+12676,70,4,100.2,Can't Loose Them
+12678,78,7,644.08,Can't Loose Them
+12679,87,3,166.32,Can't Loose Them
+12680,73,3,41.76,Can't Loose Them
+12681,77,10,224,Can't Loose Them
+12682,81,17,696.55,Can't Loose Them
+12683,92,9,240,Can't Loose Them
+12684,170,4,92.4,Can't Loose Them
+12685,75,3,55,Can't Loose Them
+12688,113,1,75,Loyal
+12689,127,1,10,Needs Attention
+12690,205,1,24.96,Needs Attention
+12691,145,1,19.8,Promising
+12693,127,3,57.94,Champions
+12694,70,2,20.28,Champions
+12695,107,2,36.15,Champions
+12697,131,2,160,Champions
+12700,156,2,40.6,Loyal
+12701,79,2,32.4,Champions
+12703,71,1,6.8,Potential
+12704,78,4,74.1,Can't Loose Them
+12705,77,4,69.48,Can't Loose Them
+12708,72,6,113.65,Can't Loose Them
+12709,71,9,297.3,Can't Loose Them
+12710,96,3,35.08,Champions
+12712,106,7,436.15,Can't Loose Them
+12714,106,3,43.48,Can't Loose Them
+12715,106,1,12.5,Promising
+12716,133,1,13.2,Needs Attention
+12717,151,2,30,Potential
+12718,71,1,9.36,Potential
+12720,80,14,264.78,Can't Loose Them
+12721,79,3,45.8,Can't Loose Them
+12722,85,4,52.71,Can't Loose Them
+12724,81,2,39.9,Can't Loose Them
+12726,86,4,101.22,Can't Loose Them
+12727,95,4,129.72,Can't Loose Them
+12728,71,2,44.74,Can't Loose Them
+12729,113,1,25.2,Potential
+12731,70,8,654.6,Can't Loose Them
+12732,179,1,33.2,Promising
+12733,234,1,27.65,Needs Attention
+12739,78,2,57.3,Can't Loose Them
+12743,134,2,18.25,Potential
+12744,144,4,2455.97,Can't Loose Them
+12747,109,5,191.85,Can't Loose Them
+12748,70,96,1054.43,Can't Loose Them
+12749,130,3,67,Champions
+12750,128,1,15,Needs Attention
+12752,81,1,15.9,Potential
+12753,135,3,346.02,Can't Loose Them
+12754,235,2,124.21,Loyal
+12755,280,1,5.95,Require Activation
+12756,86,1,61.2,Loyal
+12757,142,7,3646.95,Can't Loose Them
+12758,116,2,90.06,Champions
+12759,171,2,39,Loyal
+12763,138,1,87,Potential
+12766,149,2,42.36,Loyal
+12769,238,1,175.2,Potential
+12770,210,1,69.12,Promising
+12775,189,3,77.1,Loyal
+12778,183,3,68.4,Loyal
+12779,189,4,109.3,Can't Loose Them
+12782,149,2,28.52,Potential
+12783,75,1,14.94,Potential
+12787,91,2,61.8,Champions
+12790,192,1,10.08,Require Activation
+12792,256,1,15,Require Activation
+12794,98,1,17.4,Potential
+12798,170,1,515.52,Loyal
+12802,186,1,13,Require Activation
+12808,184,1,15.3,Require Activation
+12809,177,1,17.7,Promising
+12811,260,2,42,Potential
+12814,101,1,85.92,Loyal
+12815,147,2,35.25,Potential
+12816,95,2,35.55,Loyal
+12817,281,1,39.6,Promising
+12818,261,1,302.4,Potential
+12820,74,1,15,Potential
+12821,214,1,19.92,Needs Attention
+12822,70,2,30.8,Champions
+12823,74,3,1224,Can't Loose Them
+12826,71,2,37.3,Can't Loose Them
+12828,99,3,74.1,Can't Loose Them
+12830,91,5,1556.64,Can't Loose Them
+12831,262,1,34.2,Needs Attention
+12832,98,1,17,Potential
+12833,145,1,15,Needs Attention
+12834,282,1,15.9,Require Activation
+12836,137,2,18.6,Potential
+12837,173,1,17,Promising
+12839,71,7,77.9,Can't Loose Them
+12840,143,4,138.6,Can't Loose Them
+12841,89,10,193.17,Can't Loose Them
+12842,70,1,15,Potential
+12843,159,7,113.25,Can't Loose Them
+12844,130,1,4.95,Needs Attention
+12845,267,3,283.55,Champions
+12849,268,1,34.8,Needs Attention
+12851,96,1,4.16,Promising
+12853,134,5,187.2,Can't Loose Them
+12854,78,2,151.7,Can't Loose Them
+12857,210,1,35.7,Needs Attention
+12864,138,1,17.4,Promising
+12865,123,1,6.64,Needs Attention
+12866,283,1,6.3,Require Activation
+12867,96,4,32.35,Can't Loose Them
+12868,185,3,69.2,Loyal
+12871,84,2,178.2,Can't Loose Them
+12873,282,1,68,Promising
+12875,143,1,49.47,Potential
+12876,196,1,20.8,Needs Attention
+12877,78,7,170.14,Can't Loose Them
+12878,236,2,45,Potential
+12879,81,2,183.6,Can't Loose Them
+12881,275,1,195,Potential
+12883,89,1,17.85,Potential
+12884,88,1,170,Champions
+12885,123,1,19.8,Promising
+12886,219,1,17,Needs Attention
+12888,214,2,106.56,Loyal
+12891,185,2,289,Loyal
+12895,86,1,19.8,Potential
+12897,204,1,58,Promising
+12901,81,20,5915.66,Can't Loose Them
+12902,264,1,17.7,Needs Attention
+12904,172,1,9.95,Needs Attention
+12906,78,2,79.2,Can't Loose Them
+12908,176,1,432,Loyal
+12909,87,4,107.16,Can't Loose Them
+12910,78,5,245.46,Can't Loose Them
+12913,282,1,15.3,Require Activation
+12915,148,1,23.4,Promising
+12916,138,3,171.5,Can't Loose Them
+12917,128,1,297,Loyal
+12919,116,3,167.8,Can't Loose Them
+12921,84,20,542.1,Can't Loose Them
+12922,161,1,13.2,Needs Attention
+12924,88,3,162.67,Can't Loose Them
+12925,74,1,10.2,Potential
+12928,147,2,66.8,Loyal
+12930,78,2,25.2,Champions
+12931,101,8,1607.62,Can't Loose Them
+12933,171,2,57.45,Loyal
+12935,109,3,46.95,Can't Loose Them
+12936,78,1,34.68,Loyal
+12937,71,3,37.1,Can't Loose Them
+12939,79,4,916.64,Can't Loose Them
+12940,87,1,17,Potential
+12942,131,2,25.35,Potential
+12947,143,4,99.1,Can't Loose Them
+12948,105,4,131.3,Can't Loose Them
+12949,114,7,98.96,Can't Loose Them
+12951,173,3,62.04,Champions
+12952,78,1,14.85,Potential
+12955,92,6,135.84,Can't Loose Them
+12957,71,5,75.36,Can't Loose Them
+12962,113,1,19.8,Potential
+12963,84,1,15,Potential
+12965,89,1,8.25,Promising
+12968,112,1,15,Promising
+12971,73,50,2395.5,Can't Loose Them
+12974,197,1,15.9,Require Activation
+12976,211,1,19.8,Needs Attention
+12977,156,1,8.5,Needs Attention
+12980,157,5,2041.92,Can't Loose Them
+12981,133,1,34.68,Promising
+12982,242,1,10.4,Require Activation
+12987,73,2,37.2,Can't Loose Them
+12989,88,6,1121.4,Can't Loose Them
+12990,185,1,41.6,Promising
+12991,112,1,42.5,Loyal
+12993,120,2,36.25,Loyal
+12994,120,2,35.7,Potential
+12995,85,1,38.16,Champions
+12997,88,2,61.6,Champions
+12999,196,3,107.04,Champions
+13000,106,2,91.17,Champions
+13001,158,7,717.12,Can't Loose Them
+13003,105,3,98.5,Can't Loose Them
+13004,77,8,114.96,Can't Loose Them
+13005,173,2,37.3,Loyal
+13012,78,4,95.79,Can't Loose Them
+13013,92,7,147.7,Can't Loose Them
+13014,74,6,217.3,Can't Loose Them
+13015,197,4,98.7,Can't Loose Them
+13016,73,3,64.56,Can't Loose Them
+13018,72,19,378.78,Can't Loose Them
+13021,70,5,121.6,Can't Loose Them
+13023,129,1,15.9,Needs Attention
+13026,92,3,194.16,Can't Loose Them
+13027,113,5,1344,Can't Loose Them
+13029,138,1,299.4,Loyal
+13032,87,1,2.5,Promising
+13035,73,2,117,Can't Loose Them
+13037,138,3,38.4,Champions
+13038,80,2,117,Can't Loose Them
+13043,273,1,59.8,Promising
+13045,99,1,17.4,Potential
+13046,266,1,14.75,Require Activation
+13047,127,4,74.15,Can't Loose Them
+13048,113,2,32.1,Loyal
+13050,106,6,94.35,Can't Loose Them
+13052,212,1,23.85,Needs Attention
+13055,78,3,43.08,Can't Loose Them
+13058,151,1,16.35,Needs Attention
+13059,249,1,17.7,Needs Attention
+13060,253,1,35.4,Needs Attention
+13061,72,1,9.96,Potential
+13062,191,1,60.48,Promising
+13064,88,2,45.8,Champions
+13067,82,1,7.95,Potential
+13069,99,14,201.63,Can't Loose Them
+13070,192,1,20.8,Needs Attention
+13072,266,1,15,Require Activation
+13075,129,1,47.2,Potential
+13078,82,12,748.54,Can't Loose Them
+13079,75,3,154.7,Can't Loose Them
+13080,179,1,3.36,Needs Attention
+13081,143,3,44.46,Champions
+13082,126,8,154.2,Can't Loose Them
+13083,75,1,17,Loyal
+13085,157,1,17,Promising
+13089,70,54,2427.14,Can't Loose Them
+13090,136,4,237.4,Can't Loose Them
+13092,70,4,57.25,Can't Loose Them
+13093,275,1,40.8,Promising
+13094,80,7,505.74,Can't Loose Them
+13095,70,1,9.36,Potential
+13097,77,6,197.01,Can't Loose Them
+13098,87,17,946.6,Can't Loose Them
+13099,99,1,207.36,Champions
+13101,234,1,9.95,Require Activation
+13102,81,13,243.88,Can't Loose Them
+13104,85,3,232.92,Can't Loose Them
+13106,133,1,76.5,Potential
+13107,85,2,94.56,Can't Loose Them
+13109,157,1,10.5,Needs Attention
+13110,137,4,54.04,Can't Loose Them
+13113,113,15,2256.15,Can't Loose Them
+13115,184,1,7.8,Require Activation
+13116,138,1,25.5,Promising
+13117,121,4,57.7,Can't Loose Them
+13118,208,2,91.3,Potential
+13120,238,1,30.6,Needs Attention
+13121,269,1,7.65,Require Activation
+13122,94,2,48.57,Champions
+13124,89,2,18.6,Loyal
+13126,72,3,53.1,Can't Loose Them
+13127,77,1,34.68,Loyal
+13130,94,1,39,Loyal
+13131,71,2,36.4,Can't Loose Them
+13132,261,1,15.3,Require Activation
+13133,273,1,9.95,Require Activation
+13134,85,4,125.04,Can't Loose Them
+13135,196,1,3096,Potential
+13136,87,4,91.9,Can't Loose Them
+13137,92,4,12.57,Champions
+13138,80,3,41.12,Can't Loose Them
+13139,72,4,167.02,Can't Loose Them
+13140,108,2,33.9,Loyal
+13141,84,3,52.4,Can't Loose Them
+13145,91,2,163.8,Can't Loose Them
+13147,99,1,118.8,Champions
+13148,133,6,97.6,Can't Loose Them
+13149,106,2,25.14,Loyal
+13155,79,1,10.5,Potential
+13157,141,2,29,Potential
+13158,94,3,65.1,Can't Loose Them
+13159,106,2,23.25,Loyal
+13162,122,3,27.03,Loyal
+13166,283,1,2.5,Require Activation
+13167,130,2,59.66,Loyal
+13168,199,1,12.75,Require Activation
+13169,252,1,15.6,Require Activation
+13178,73,7,187.2,Can't Loose Them
+13183,86,6,85.7,Can't Loose Them
+13184,130,8,56.4,Can't Loose Them
+13185,267,1,71.4,Promising
+13186,93,2,44.88,Champions
+13189,115,1,4,Promising
+13192,95,2,41.1,Champions
+13194,135,1,34,Promising
+13196,84,2,50.25,Can't Loose Them
+13198,120,3,61.5,Champions
+13199,92,14,1238.8,Can't Loose Them
+13200,74,2,35.4,Champions
+13203,120,2,32.4,Potential
+13207,150,1,35.4,Promising
+13208,155,3,45.55,Champions
+13209,128,3,79.5,Champions
+13210,93,1,25.5,Potential
+13211,95,1,10.5,Promising
+13213,128,4,127.3,Can't Loose Them
+13216,267,1,69.12,Promising
+13217,122,3,294.94,Can't Loose Them
+13218,127,1,15,Needs Attention
+13220,78,4,344.1,Can't Loose Them
+13221,240,1,8.5,Require Activation
+13223,200,2,115.8,Loyal
+13224,151,1,8.82,Needs Attention
+13225,143,3,702,Can't Loose Them
+13226,273,1,9.95,Require Activation
+13227,201,1,67.5,Promising
+13228,81,1,179,Can't Loose Them
+13229,225,1,15,Require Activation
+13230,138,8,39.73,Can't Loose Them
+13232,98,5,41.75,Can't Loose Them
+13233,74,1,14.04,Potential
+13235,212,1,19.8,Needs Attention
+13236,106,1,31.9,Potential
+13238,163,1,15,Needs Attention
+13239,261,1,18.96,Needs Attention
+13240,96,3,31.6,Champions
+13242,112,3,62.4,Can't Loose Them
+13243,203,1,5.1,Require Activation
+13244,92,1,4.95,Promising
+13246,176,2,19,Potential
+13247,82,1,29.7,Loyal
+13248,124,2,33.36,Potential
+13249,92,3,302.04,Can't Loose Them
+13253,156,1,27.36,Promising
+13258,205,1,5.95,Require Activation
+13261,268,1,99,Potential
+13262,263,1,6.96,Require Activation
+13263,70,24,137.43,Can't Loose Them
+13265,88,4,136.48,Can't Loose Them
+13266,75,9,227.48,Can't Loose Them
+13267,92,12,195.96,Can't Loose Them
+13268,84,7,39.72,Can't Loose Them
+13269,88,7,162.95,Can't Loose Them
+13272,89,1,18.96,Potential
+13273,113,1,24.9,Potential
+13276,99,1,41.6,Loyal
+13277,116,2,74.5,Champions
+13279,78,1,9.36,Potential
+13280,122,1,16.5,Needs Attention
+13282,162,2,121.5,Champions
+13283,185,1,8.5,Require Activation
+13285,161,2,36.45,Loyal
+13291,155,1,12.45,Needs Attention
+13294,189,2,42,Potential
+13296,137,1,15,Needs Attention
+13299,268,1,29.7,Needs Attention
+13300,169,1,23,Promising
+13301,103,3,34.92,Champions
+13302,155,1,63.75,Potential
+13305,92,6,123.39,Can't Loose Them
+13307,120,1,15,Needs Attention
+13308,203,1,15,Require Activation
+13309,88,2,25.84,Loyal
+13310,206,1,10.2,Require Activation
+13311,150,1,5.04,Needs Attention
+13313,141,2,22.44,Potential
+13314,73,1,19.8,Loyal
+13316,79,3,408.72,Can't Loose Them
+13317,198,3,90.4,Loyal
+13319,91,12,312.7,Can't Loose Them
+13320,78,4,47.3,Can't Loose Them
+13321,72,2,259.04,Can't Loose Them
+13323,84,1,29.7,Loyal
+13324,89,7,541.8,Can't Loose Them
+13325,81,1,16.5,Potential
+13327,112,4,227.8,Can't Loose Them
+13330,92,2,42.36,Champions
+13334,82,2,37.3,Can't Loose Them
+13336,77,1,15.3,Potential
+13338,157,1,10.2,Needs Attention
+13339,200,1,17.4,Needs Attention
+13340,105,5,639.08,Can't Loose Them
+13341,260,1,87.6,Promising
+13343,177,1,19.8,Promising
+13344,277,1,59.8,Promising
+13347,70,1,39.6,Champions
+13350,79,1,15.9,Potential
+13354,71,1,10.5,Potential
+13355,122,1,17.7,Promising
+13356,80,1,17.4,Loyal
+13357,257,1,9.9,Require Activation
+13358,268,1,17.9,Needs Attention
+13362,245,1,19.5,Needs Attention
+13364,71,1,24.96,Loyal
+13365,217,1,51,Promising
+13368,256,1,10.08,Require Activation
+13372,89,1,9.95,Promising
+13373,158,2,30.9,Potential
+13375,88,1,16.5,Promising
+13376,99,3,65.7,Can't Loose Them
+13379,136,1,5.04,Needs Attention
+13381,89,4,99.68,Can't Loose Them
+13382,280,1,15,Require Activation
+13384,73,5,100.4,Can't Loose Them
+13388,131,2,26.1,Potential
+13389,74,2,20.16,Champions
+13390,74,1,15,Potential
+13391,203,1,59.8,Promising
+13394,78,5,76.77,Can't Loose Them
+13395,185,1,1.92,Require Activation
+13397,72,3,262.6,Can't Loose Them
+13398,192,1,9.96,Require Activation
+13402,127,1,17,Promising
+13404,212,1,15,Require Activation
+13405,74,2,40.5,Can't Loose Them
+13408,75,37,2913.74,Can't Loose Them
+13410,74,3,103.4,Can't Loose Them
+13411,107,1,18.75,Potential
+13414,133,2,64.65,Loyal
+13416,81,1,29.7,Loyal
+13417,205,1,23.8,Needs Attention
+13418,84,11,155.25,Can't Loose Them
+13420,149,2,34.2,Potential
+13425,108,2,31.5,Loyal
+13426,89,4,131.6,Can't Loose Them
+13427,120,2,25.5,Potential
+13429,75,1,25.2,Loyal
+13430,86,1,4.56,Promising
+13431,88,1,30,Potential
+13434,74,2,187.08,Can't Loose Them
+13435,75,4,177.69,Can't Loose Them
+13437,99,4,62.22,Can't Loose Them
+13439,255,1,6.5,Require Activation
+13441,91,1,12.6,Promising
+13448,80,2,13.05,Loyal
+13450,89,5,100.56,Can't Loose Them
+13451,126,3,16.35,Potential
+13452,259,2,590,Loyal
+13453,165,1,19.9,Promising
+13456,155,3,245.7,Can't Loose Them
+13458,99,6,129.56,Can't Loose Them
+13461,138,2,113.6,Champions
+13462,252,1,19.8,Needs Attention
+13466,184,1,17.7,Needs Attention
+13468,74,21,543.11,Can't Loose Them
+13470,99,2,33,Loyal
+13474,236,1,1.7,Require Activation
+13475,191,3,63.18,Loyal
+13476,178,2,38.7,Loyal
+13477,138,3,41.66,Champions
+13479,200,2,50.4,Potential
+13481,108,4,67.15,Can't Loose Them
+13482,232,1,17.4,Needs Attention
+13484,241,1,67.5,Promising
+13485,233,1,12.5,Require Activation
+13486,78,3,40.62,Can't Loose Them
+13487,213,1,15.9,Require Activation
+13488,72,8,144.14,Can't Loose Them
+13489,105,2,85.8,Champions
+13491,147,4,38.91,Can't Loose Them
+13492,136,3,41.4,Champions
+13493,275,1,99,Potential
+13495,232,1,20.4,Needs Attention
+13497,282,1,24.75,Needs Attention
+13499,73,3,112.5,Can't Loose Them
+13500,122,1,15,Needs Attention
+13502,274,1,9.36,Require Activation
+13503,71,1,10.5,Potential
+13505,72,4,93.66,Can't Loose Them
+13507,98,3,69.1,Can't Loose Them
+13508,243,1,15.9,Require Activation
+13509,99,4,172.6,Can't Loose Them
+13510,95,2,13.54,Potential
+13512,260,1,17.85,Needs Attention
+13513,126,1,9.9,Needs Attention
+13514,73,1,39.9,Champions
+13515,72,4,80.34,Can't Loose Them
+13516,72,2,50.34,Can't Loose Them
+13517,106,2,34.8,Loyal
+13518,85,1,19.8,Loyal
+13519,78,1,11.9,Potential
+13520,137,3,191.8,Can't Loose Them
+13523,199,2,39.4,Potential
+13524,81,4,135.6,Can't Loose Them
+13525,248,1,232,Potential
+13527,89,5,93.61,Can't Loose Them
+13529,78,2,33.2,Champions
+13531,205,1,41.6,Promising
+13533,182,3,11.75,Potential
+13534,107,13,233.93,Can't Loose Them
+13536,75,1,10.4,Potential
+13538,94,5,228.3,Can't Loose Them
+13539,85,2,36.7,Can't Loose Them
+13544,240,1,5.75,Require Activation
+13546,200,1,25.5,Needs Attention
+13548,96,2,11.05,Potential
+13549,142,5,100.6,Can't Loose Them
+13552,86,10,236.97,Can't Loose Them
+13555,73,4,166.9,Can't Loose Them
+13557,280,1,30,Needs Attention
+13561,215,1,2.08,Require Activation
+13562,81,3,53.65,Can't Loose Them
+13563,84,2,94.35,Can't Loose Them
+13564,144,1,550.64,Loyal
+13566,82,1,1.25,Potential
+13568,173,1,8.3,Needs Attention
+13570,243,1,3.9,Require Activation
+13571,92,7,58.45,Can't Loose Them
+13572,205,1,17.7,Needs Attention
+13573,253,1,0.42,Require Activation
+13575,70,3,77.9,Can't Loose Them
+13576,71,10,1218.8,Can't Loose Them
+13577,92,3,53.4,Can't Loose Them
+13583,155,1,9,Needs Attention
+13588,86,5,55.68,Can't Loose Them
+13589,179,1,14.95,Needs Attention
+13590,150,3,151.06,Can't Loose Them
+13591,204,2,39.42,Potential
+13592,205,3,64.22,Loyal
+13593,108,4,50.9,Can't Loose Them
+13599,84,7,149.12,Can't Loose Them
+13601,211,1,16.5,Require Activation
+13606,243,1,14.95,Require Activation
+13610,110,4,22.39,Can't Loose Them
+13611,89,2,34.8,Loyal
+13614,89,2,27.69,Loyal
+13617,113,2,17.75,Loyal
+13618,173,1,6.96,Needs Attention
+13621,116,1,4,Promising
+13623,210,3,44.2,Loyal
+13626,252,1,17.4,Needs Attention
+13627,79,3,57.72,Can't Loose Them
+13629,99,6,912.85,Can't Loose Them
+13630,75,5,357.4,Can't Loose Them
+13631,99,11,3070.42,Can't Loose Them
+13632,173,3,43.77,Champions
+13634,86,3,23,Champions
+13636,122,3,68.65,Champions
+13637,187,2,2.55,Needs Attention
+13639,74,1,23.4,Loyal
+13642,215,1,4.25,Require Activation
+13643,98,2,29.3,Loyal
+13644,73,2,30.6,Champions
+13645,120,1,19.9,Promising
+13647,71,3,64.34,Can't Loose Them
+13649,256,1,15.3,Require Activation
+13650,88,3,46.5,Can't Loose Them
+13652,256,1,27.04,Needs Attention
+13654,145,4,114.3,Can't Loose Them
+13655,114,2,45.8,Champions
+13656,164,1,8.5,Needs Attention
+13657,201,1,12.6,Require Activation
+13658,85,3,95.08,Can't Loose Them
+13659,205,1,35.95,Promising
+13662,85,3,67.8,Can't Loose Them
+13663,179,1,16.5,Needs Attention
+13667,149,1,4.16,Needs Attention
+13668,113,12,188.43,Can't Loose Them
+13669,149,1,12.75,Needs Attention
+13670,75,1,16.5,Potential
+13675,151,1,24.96,Promising
+13678,151,1,4.8,Needs Attention
+13681,155,1,25.2,Promising
+13682,187,1,25.5,Needs Attention
+13686,182,1,8.5,Needs Attention
+13692,213,2,29.9,Promising
+13694,71,32,4472.68,Can't Loose Them
+13695,81,13,478.73,Can't Loose Them
+13699,155,1,17.7,Promising
+13700,92,6,120.51,Can't Loose Them
+13704,73,5,119.3,Can't Loose Them
+13705,144,1,9.9,Needs Attention
+13707,267,1,10.2,Require Activation
+13708,271,1,4.95,Require Activation
+13709,101,4,153.46,Can't Loose Them
+13711,218,2,55.4,Potential
+13712,246,1,15,Require Activation
+13715,281,1,13.44,Require Activation
+13716,269,1,7.5,Require Activation
+13717,128,3,36.15,Champions
+13718,246,1,25.4,Needs Attention
+13719,205,2,30,Promising
+13720,116,4,144.5,Can't Loose Them
+13722,131,3,78.63,Champions
+13723,217,1,47.2,Promising
+13725,169,3,55,Champions
+13726,100,1,15,Promising
+13728,107,4,56.84,Can't Loose Them
+13730,135,2,37.8,Loyal
+13731,219,2,34.5,Promising
+13735,175,2,35.7,Potential
+13736,260,1,9.9,Require Activation
+13737,200,1,73.95,Promising
+13740,240,1,5.04,Require Activation
+13741,71,3,81.85,Can't Loose Them
+13742,89,8,170.55,Can't Loose Them
+13743,88,6,157.2,Can't Loose Them
+13744,95,1,4.68,Promising
+13745,162,1,9,Needs Attention
+13748,95,4,51.41,Can't Loose Them
+13750,140,2,338.19,Champions
+13752,124,6,203.55,Can't Loose Them
+13754,151,1,17.4,Promising
+13756,93,5,201.9,Can't Loose Them
+13758,201,2,25.05,Promising
+13759,71,1,17.4,Loyal
+13760,256,1,2.95,Require Activation
+13761,179,1,15.9,Needs Attention
+13762,218,1,104.4,Potential
+13764,70,2,26.84,Champions
+13767,80,22,891.94,Can't Loose Them
+13769,92,6,213.75,Can't Loose Them
+13771,199,2,83.7,Potential
+13772,96,2,20.2,Loyal
+13774,81,1,19.8,Loyal
+13777,77,13,1971.96,Can't Loose Them
+13778,103,1,8.25,Promising
+13780,170,1,2.08,Needs Attention
+13781,250,1,4.25,Require Activation
+13782,124,2,32.3,Potential
+13784,94,6,464.88,Can't Loose Them
+13787,75,1,5.9,Potential
+13791,127,2,469,Champions
+13798,72,34,4648.8,Can't Loose Them
+13799,116,1,15,Promising
+13802,138,2,160,Champions
+13803,255,1,17.7,Needs Attention
+13804,78,4,99.85,Can't Loose Them
+13805,129,1,169,Loyal
+13808,93,2,85.08,Champions
+13811,183,3,294.75,Champions
+13812,105,1,19.8,Potential
+13813,70,3,53.4,Can't Loose Them
+13814,92,2,30.6,Loyal
+13815,172,1,62.4,Potential
+13821,144,2,31.74,Potential
+13823,91,1,16.5,Promising
+13824,135,3,213.8,Can't Loose Them
+13826,176,1,21.9,Promising
+13827,133,2,8.85,Promising
+13831,87,4,202.7,Can't Loose Them
+13833,159,1,15.9,Needs Attention
+13835,155,2,48.75,Loyal
+13837,211,1,11.25,Require Activation
+13838,117,2,6.7,Potential
+13841,252,1,85,Promising
+13842,72,5,89.2,Can't Loose Them
+13846,242,1,12.6,Require Activation
+13848,92,1,320,Champions
+13849,170,1,15,Needs Attention
+13850,129,1,17.4,Promising
+13851,95,2,29.8,Loyal
+13854,88,14,1990.36,Can't Loose Them
+13856,168,3,177,Can't Loose Them
+13860,86,1,22.5,Potential
+13862,72,5,79.5,Can't Loose Them
+13863,247,1,11.9,Require Activation
+13865,136,2,31.7,Potential
+13866,74,1,27.04,Loyal
+13867,74,2,20.4,Champions
+13869,123,2,26.3,Potential
+13870,101,4,107.4,Can't Loose Them
+13871,92,8,156.3,Can't Loose Them
+13873,119,2,45.8,Loyal
+13875,133,3,88.56,Champions
+13877,86,1,69.6,Loyal
+13880,87,9,275.69,Can't Loose Them
+13881,71,11,997.7,Can't Loose Them
+13883,218,4,61.9,Champions
+13884,89,4,65.7,Can't Loose Them
+13885,189,2,23.4,Promising
+13886,71,1,10.2,Potential
+13887,204,1,9.96,Require Activation
+13888,119,2,20.2,Potential
+13889,92,1,25,Potential
+13890,107,1,6.96,Promising
+13892,246,1,14.04,Require Activation
+13895,143,2,53.25,Loyal
+13899,274,1,51,Promising
+13900,183,3,37.02,Loyal
+13901,72,4,66.96,Can't Loose Them
+13908,79,4,77.33,Can't Loose Them
+13911,144,6,121.94,Can't Loose Them
+13917,191,1,2.28,Require Activation
+13918,253,1,30.6,Needs Attention
+13919,121,1,34.8,Promising
+13924,72,1,15.8,Potential
+13925,92,4,85.9,Can't Loose Them
+13927,74,1,16.6,Loyal
+13928,106,2,51.3,Champions
+13929,169,1,61.2,Potential
+13930,136,1,12.6,Needs Attention
+13931,95,2,274.5,Can't Loose Them
+13933,109,2,40.05,Champions
+13934,263,1,19.8,Needs Attention
+13936,179,1,3.48,Needs Attention
+13937,169,1,30.6,Promising
+13939,108,1,10.2,Promising
+13940,116,2,26.1,Loyal
+13941,89,2,250.08,Can't Loose Them
+13946,79,3,238.02,Can't Loose Them
+13949,77,2,25.08,Champions
+13950,73,2,39.6,Can't Loose Them
+13951,176,2,35.1,Potential
+13952,217,2,54,Potential
+13953,115,4,1769.8,Can't Loose Them
+13954,70,1,15,Potential
+13955,154,1,4.95,Needs Attention
+13956,138,3,9.5,Potential
+13959,79,2,15.75,Loyal
+13960,71,1,17.7,Loyal
+13962,245,1,19.9,Needs Attention
+13967,145,1,35.7,Promising
+13969,107,9,278.67,Can't Loose Them
+13971,106,5,99.05,Can't Loose Them
+13972,70,2,24.66,Champions
+13975,128,4,80.09,Can't Loose Them
+13976,206,1,69.36,Promising
+13979,73,1,20.8,Loyal
+13982,163,1,9.9,Needs Attention
+13983,88,5,328.95,Can't Loose Them
+13984,126,2,526.08,Champions
+13985,71,8,141.1,Can't Loose Them
+13988,72,4,66.66,Can't Loose Them
+13989,239,1,23.8,Needs Attention
+13990,213,1,23.4,Needs Attention
+13991,75,2,9.64,Loyal
+13993,89,5,174.6,Can't Loose Them
+13994,77,3,83.7,Can't Loose Them
+13995,115,3,49.8,Can't Loose Them
+13999,95,7,171.45,Can't Loose Them
+14000,211,1,61.2,Promising
+14001,232,1,19.9,Needs Attention
+14002,134,2,17.88,Potential
+14004,78,5,116.8,Can't Loose Them
+14005,75,4,90.6,Can't Loose Them
+14006,115,2,34.2,Loyal
+14009,198,2,45.3,Potential
+14012,277,1,37.2,Promising
+14013,110,3,36.78,Can't Loose Them
+14014,77,1,15,Potential
+14016,161,3,51.78,Champions
+14019,98,2,21.45,Loyal
+14020,88,1,34.8,Potential
+14021,155,3,98.8,Can't Loose Them
+14022,225,1,10.5,Require Activation
+14023,250,1,15,Require Activation
+14024,121,2,35.65,Potential
+14029,144,1,51,Potential
+14030,89,4,46.6,Can't Loose Them
+14031,74,9,359.56,Can't Loose Them
+14032,87,5,157.44,Can't Loose Them
+14034,157,2,29.84,Potential
+14035,107,2,162.24,Can't Loose Them
+14037,176,1,17.7,Promising
+14038,78,3,62.4,Can't Loose Them
+14040,94,7,166.99,Can't Loose Them
+14041,266,1,0.58,Require Activation
+14044,103,2,22.7,Loyal
+14045,109,1,408,Champions
+14047,73,2,100.9,Can't Loose Them
+14049,158,2,31.95,Potential
+14050,106,1,25.2,Potential
+14051,91,10,859.5,Can't Loose Them
+14053,124,2,218.5,Champions
+14055,106,1,23.9,Potential
+14056,84,17,257.18,Can't Loose Them
+14057,89,11,596.98,Can't Loose Them
+14059,266,1,23.4,Needs Attention
+14060,79,10,288.54,Can't Loose Them
+14062,71,7,714.32,Can't Loose Them
+14064,113,4,30.3,Can't Loose Them
+14066,266,1,17.7,Needs Attention
+14067,96,1,16.5,Promising
+14071,260,2,42.46,Potential
+14075,261,1,5.04,Require Activation
+14076,129,1,16.95,Promising
+14077,78,4,20.05,Can't Loose Them
+14078,101,4,169.44,Can't Loose Them
+14079,124,1,15,Needs Attention
+14083,126,4,43.3,Can't Loose Them
+14085,141,6,42.84,Can't Loose Them
+14088,128,6,459.4,Can't Loose Them
+14092,99,7,150.03,Can't Loose Them
+14096,74,6,32.17,Can't Loose Them
+14099,120,5,80.64,Can't Loose Them
+14100,137,1,7.95,Needs Attention
+14101,73,4,1335,Can't Loose Them
+14104,154,2,89.16,Loyal
+14105,239,1,25.5,Needs Attention
+14107,96,4,104.82,Can't Loose Them
+14108,101,1,9.48,Promising
+14109,72,1,15,Potential
+14110,86,7,857.98,Can't Loose Them
+14111,95,3,206.1,Can't Loose Them
+14112,130,4,100.7,Can't Loose Them
+14113,78,1,204,Can't Loose Them
+14114,273,1,89.7,Promising
+14116,92,2,31.65,Loyal
+14117,143,1,30,Promising
+14124,84,1,90,Champions
+14125,78,1,19.8,Loyal
+14127,122,2,7.94,Promising
+14128,255,1,5.04,Require Activation
+14129,95,3,56.2,Can't Loose Them
+14132,87,6,126.9,Can't Loose Them
+14133,129,2,43.32,Loyal
+14135,75,4,257.5,Can't Loose Them
+14141,73,2,60,Can't Loose Them
+14143,133,1,17,Promising
+14145,156,3,1128.6,Can't Loose Them
+14146,81,3,50.16,Can't Loose Them
+14147,78,1,81.6,Champions
+14148,233,1,127.5,Potential
+14149,220,1,17.7,Needs Attention
+14152,75,2,18.46,Champions
+14154,239,2,43.2,Potential
+14155,266,1,17.85,Needs Attention
+14156,70,36,3380.72,Can't Loose Them
+14159,81,7,52.19,Can't Loose Them
+14161,215,2,32.34,Promising
+14162,173,1,7.95,Needs Attention
+14163,87,4,178.3,Can't Loose Them
+14164,70,2,423.25,Can't Loose Them
+14165,275,1,5.9,Require Activation
+14167,165,2,25.5,Potential
+14171,98,1,8.5,Promising
+14173,219,1,7.8,Require Activation
+14175,171,1,10,Needs Attention
+14177,86,4,174.55,Can't Loose Them
+14178,98,3,13.03,Loyal
+14180,91,13,368.1,Can't Loose Them
+14188,71,4,58.2,Can't Loose Them
+14189,96,7,91.3,Can't Loose Them
+14191,80,8,199.79,Can't Loose Them
+14193,269,1,20.4,Needs Attention
+14194,75,13,344.41,Can't Loose Them
+14195,201,2,336.6,Loyal
+14196,106,1,30,Potential
+14198,86,3,47.85,Can't Loose Them
+14199,218,1,175.2,Potential
+14201,80,5,181.02,Can't Loose Them
+14205,264,1,15.9,Require Activation
+14206,239,1,23.4,Needs Attention
+14208,94,1,10.5,Promising
+14209,121,4,85.3,Can't Loose Them
+14210,105,3,55.7,Can't Loose Them
+14211,80,5,142.6,Can't Loose Them
+14212,89,1,237.6,Champions
+14214,156,3,53.7,Champions
+14215,77,2,31.5,Champions
+14217,74,8,308.33,Can't Loose Them
+14220,247,1,47.2,Promising
+14221,80,7,146.8,Can't Loose Them
+14222,177,1,10.5,Needs Attention
+14223,92,3,46.7,Can't Loose Them
+14224,110,3,50.95,Can't Loose Them
+14226,70,3,122.7,Can't Loose Them
+14227,85,8,171.87,Can't Loose Them
+14231,183,2,88.4,Potential
+14232,115,4,83.7,Can't Loose Them
+14233,211,1,67.6,Promising
+14235,75,5,350,Can't Loose Them
+14236,80,1,13.2,Potential
+14239,71,8,164.31,Can't Loose Them
+14240,225,1,19.8,Needs Attention
+14241,183,1,17.7,Needs Attention
+14242,234,1,25.5,Needs Attention
+14243,95,4,120.45,Can't Loose Them
+14245,219,2,28.5,Promising
+14246,110,3,62.25,Can't Loose Them
+14247,278,1,9.95,Require Activation
+14250,89,1,19.8,Potential
+14256,260,1,10.2,Require Activation
+14257,123,3,115.65,Can't Loose Them
+14258,89,6,668,Can't Loose Them
+14259,141,1,33,Promising
+14261,78,1,19.8,Loyal
+14262,84,4,104.4,Can't Loose Them
+14264,154,2,55.2,Loyal
+14265,109,2,45.3,Champions
+14267,162,3,45.48,Champions
+14271,225,1,7.8,Require Activation
+14272,73,2,35.5,Champions
+14273,136,3,62.4,Champions
+14276,98,2,45.7,Champions
+14277,212,1,17.7,Needs Attention
+14280,196,1,14.85,Require Activation
+14282,81,9,175.34,Can't Loose Them
+14284,86,1,14.85,Promising
+14285,75,2,189.5,Can't Loose Them
+14286,242,1,20.4,Needs Attention
+14287,198,2,47.28,Potential
+14288,213,1,35.4,Needs Attention
+14289,134,4,105.84,Can't Loose Them
+14290,81,1,15,Potential
+14291,120,7,138.28,Can't Loose Them
+14292,88,5,111.18,Can't Loose Them
+14293,147,1,20.8,Promising
+14297,274,1,39.8,Promising
+14298,72,27,1389.81,Can't Loose Them
+14299,78,2,27.9,Champions
+14301,117,1,60,Loyal
+14304,222,1,30,Needs Attention
+14305,71,3,35.6,Can't Loose Them
+14306,85,1,102,Can't Loose Them
+14307,88,4,64.74,Can't Loose Them
+14309,93,4,116.7,Can't Loose Them
+14311,242,1,10.2,Require Activation
+14312,91,3,51.4,Can't Loose Them
+14314,106,1,4.8,Promising
+14315,129,5,103.9,Can't Loose Them
+14320,206,1,5.04,Require Activation
+14321,73,3,21.84,Can't Loose Them
+14323,114,2,35.7,Loyal
+14326,242,1,60,Promising
+14327,163,1,39.6,Potential
+14329,108,3,70.65,Can't Loose Them
+14331,124,2,32.85,Potential
+14332,147,1,104.04,Loyal
+14334,93,5,73.25,Can't Loose Them
+14335,96,1,6.3,Promising
+14336,198,3,56.4,Loyal
+14338,161,2,25.95,Potential
+14339,242,1,17.4,Needs Attention
+14340,218,1,27,Needs Attention
+14341,130,4,79.8,Can't Loose Them
+14342,137,2,88,Loyal
+14344,127,5,63.15,Can't Loose Them
+14346,120,1,15,Needs Attention
+14348,260,1,91.8,Promising
+14350,274,1,19.8,Needs Attention
+14351,164,1,51,Potential
+14352,157,4,148,Can't Loose Them
+14353,215,1,3.9,Require Activation
+14356,79,2,35.4,Champions
+14359,87,1,17.4,Potential
+14360,94,1,10.2,Promising
+14364,108,8,562.06,Can't Loose Them
+14367,75,12,298.91,Can't Loose Them
+14375,185,1,2.95,Require Activation
+14377,191,2,195.15,Loyal
+14383,163,1,34,Promising
+14387,74,2,31.5,Champions
+14388,91,5,80.67,Can't Loose Them
+14389,190,1,33,Needs Attention
+14390,144,3,46.34,Champions
+14393,218,1,17.25,Needs Attention
+14395,78,5,38.3,Can't Loose Them
+14397,79,11,383.92,Can't Loose Them
+14400,149,1,15,Needs Attention
+14401,80,9,222,Can't Loose Them
+14403,130,4,278.1,Can't Loose Them
+14404,108,3,112.8,Can't Loose Them
+14406,119,1,20.8,Promising
+14407,107,6,471.85,Can't Loose Them
+14408,94,6,119.6,Can't Loose Them
+14409,71,3,52.1,Can't Loose Them
+14410,92,8,108.88,Can't Loose Them
+14412,72,1,17.4,Loyal
+14414,91,6,61.84,Can't Loose Them
+14415,98,6,72.7,Can't Loose Them
+14418,108,1,9.9,Promising
+14419,73,2,11.05,Loyal
+14420,99,1,19.8,Potential
+14421,211,1,19.8,Needs Attention
+14422,70,3,97.9,Can't Loose Them
+14423,218,1,163.2,Potential
+14426,140,4,76.8,Can't Loose Them
+14428,79,2,91.32,Can't Loose Them
+14432,89,1,1.17,Promising
+14434,72,1,69.6,Champions
+14436,98,1,12.5,Promising
+14440,72,1,35.4,Loyal
+14441,94,2,50.4,Champions
+14442,204,1,16.6,Needs Attention
+14443,138,1,5.04,Needs Attention
+14446,80,2,8.45,Loyal
+14447,196,2,46.5,Potential
+14449,246,1,3.9,Require Activation
+14450,180,2,5.6,Promising
+14451,194,1,8.4,Require Activation
+14452,93,1,0.75,Promising
+14453,190,1,5.75,Require Activation
+14456,73,5,12.46,Can't Loose Them
+14459,155,1,76.5,Potential
+14460,110,2,79.2,Champions
+14461,148,3,49.5,Champions
+14462,84,7,64.37,Can't Loose Them
+14463,98,3,229.8,Can't Loose Them
+14465,246,2,7.09,Needs Attention
+14466,73,4,149.1,Can't Loose Them
+14472,103,5,39.14,Can't Loose Them
+14473,74,2,123.16,Can't Loose Them
+14475,71,2,24.66,Champions
+14476,257,1,5.9,Require Activation
+14477,184,1,179,Potential
+14479,253,1,17.7,Needs Attention
+14481,164,1,15.6,Needs Attention
+14482,99,2,4.15,Potential
+14483,281,1,8.85,Require Activation
+14487,82,3,29.15,Can't Loose Them
+14489,207,1,29.88,Needs Attention
+14491,175,1,19.8,Promising
+14493,155,1,40.8,Potential
+14495,121,1,20.8,Promising
+14498,116,3,34.69,Champions
+14499,133,2,16.35,Promising
+14500,88,3,84.75,Can't Loose Them
+14501,183,1,27.04,Needs Attention
+14502,149,5,194.84,Can't Loose Them
+14503,70,2,36.7,Can't Loose Them
+14504,243,3,20.17,Potential
+14505,109,4,27.35,Can't Loose Them
+14506,162,2,41.55,Loyal
+14507,101,4,82.05,Can't Loose Them
+14508,89,1,8.25,Promising
+14511,92,2,43.54,Champions
+14512,187,2,24.15,Promising
+14513,100,2,190.24,Can't Loose Them
+14514,201,1,12.75,Require Activation
+14515,191,2,32.35,Promising
+14517,141,1,31.2,Promising
+14522,71,3,145.8,Can't Loose Them
+14523,108,1,12.5,Promising
+14524,71,7,139.41,Can't Loose Them
+14525,100,5,54.99,Can't Loose Them
+14527,71,29,298.07,Can't Loose Them
+14529,77,2,2.79,Loyal
+14530,93,4,26.9,Can't Loose Them
+14532,236,1,16.95,Needs Attention
+14533,89,2,64.32,Champions
+14534,95,11,169.65,Can't Loose Them
+14535,127,2,23.4,Potential
+14536,259,1,0.85,Require Activation
+14538,256,1,35.7,Needs Attention
+14540,75,1,3.4,Potential
+14541,168,3,67.45,Champions
+14542,185,1,17,Needs Attention
+14543,73,11,367.45,Can't Loose Them
+14546,77,3,31.08,Can't Loose Them
+14548,150,1,81.6,Potential
+14551,204,1,12.64,Require Activation
+14552,151,1,3.38,Needs Attention
+14553,218,1,5.9,Require Activation
+14557,85,1,69.6,Champions
+14560,94,11,568.6,Can't Loose Them
+14561,75,3,34.2,Can't Loose Them
+14562,78,8,137.97,Can't Loose Them
+14565,95,3,47.76,Can't Loose Them
+14566,110,1,358,Champions
+14567,130,1,35.4,Promising
+14570,280,2,6.75,Needs Attention
+14572,110,4,61.2,Can't Loose Them
+14573,179,7,35.4,Champions
+14577,163,2,16.2,Promising
+14583,144,4,18.35,Champions
+14584,169,4,31.5,Champions
+14586,276,1,15,Require Activation
+14587,184,5,31.5,Loyal
+14591,213,1,50,Promising
+14593,198,2,8.15,Needs Attention
+14595,85,1,14.04,Potential
+14597,191,1,37.5,Promising
+14603,274,1,150,Potential
+14606,72,50,661.1,Can't Loose Them
+14607,261,1,165,Potential
+14608,85,1,90,Champions
+14609,72,3,457.56,Can't Loose Them
+14616,242,1,158.4,Potential
+14619,245,1,19.9,Needs Attention
+14620,205,2,18.18,Promising
+14621,156,2,61.5,Loyal
+14622,184,1,20.8,Needs Attention
+14623,116,3,12.86,Loyal
+14625,196,1,17,Needs Attention
+14626,122,2,23.5,Potential
+14628,91,2,54.6,Champions
+14631,235,1,17.7,Needs Attention
+14632,262,1,15.9,Require Activation
+14633,266,1,15.8,Require Activation
+14636,268,1,19.5,Needs Attention
+14639,120,2,38.55,Loyal
+14640,127,4,136.65,Can't Loose Them
+14643,170,1,6.96,Needs Attention
+14645,156,2,39.1,Loyal
+14646,78,37,7221.5,Can't Loose Them
+14647,201,1,9.9,Require Activation
+14649,72,3,37.9,Can't Loose Them
+14651,211,1,1.14,Require Activation
+14652,77,1,4.25,Potential
+14655,70,2,40.2,Can't Loose Them
+14656,169,2,22.7,Potential
+14657,155,2,26.1,Potential
+14658,117,1,2.95,Promising
+14659,78,5,54.9,Can't Loose Them
+14660,86,2,8.64,Potential
+14662,234,2,8.05,Needs Attention
+14665,89,1,39.6,Loyal
+14667,74,12,206.53,Can't Loose Them
+14669,241,1,8.25,Require Activation
+14670,280,2,13.9,Needs Attention
+14672,234,1,15.9,Require Activation
+14676,78,5,341.4,Can't Loose Them
+14680,71,10,1515.72,Can't Loose Them
+14681,71,3,120,Can't Loose Them
+14682,187,2,52,Potential
+14684,81,2,2.7,Loyal
+14687,106,1,10.2,Promising
+14688,70,12,543.46,Can't Loose Them
+14689,208,1,7.95,Require Activation
+14690,151,1,15.3,Needs Attention
+14691,71,4,161.1,Can't Loose Them
+14692,137,2,8.4,Promising
+14693,264,1,4.25,Require Activation
+14696,71,4,53.92,Can't Loose Them
+14697,218,2,22.63,Promising
+14699,214,1,12.6,Require Activation
+14700,189,2,2.95,Needs Attention
+14701,172,5,130.55,Can't Loose Them
+14702,78,5,24.7,Can't Loose Them
+14704,81,3,10.93,Champions
+14705,198,1,179,Potential
+14708,154,1,119.4,Loyal
+14709,71,8,151.7,Can't Loose Them
+14711,91,9,382.85,Can't Loose Them
+14712,75,2,62.65,Can't Loose Them
+14713,99,6,79.82,Can't Loose Them
+14715,94,1,8.7,Promising
+14716,148,1,6.24,Needs Attention
+14719,179,2,24.65,Potential
+14720,89,2,30.9,Loyal
+14722,147,1,7.95,Needs Attention
+14727,274,1,50.85,Promising
+14730,107,5,28.65,Can't Loose Them
+14731,205,2,31.35,Promising
+14732,88,5,101.76,Can't Loose Them
+14733,110,5,188.18,Can't Loose Them
+14735,81,21,803.94,Can't Loose Them
+14737,128,1,170,Loyal
+14738,133,4,69.75,Can't Loose Them
+14739,94,2,171.18,Can't Loose Them
+14740,197,3,42.24,Loyal
+14741,113,2,76.15,Champions
+14745,112,4,74.8,Can't Loose Them
+14747,249,1,33.9,Needs Attention
+14748,123,2,25.68,Potential
+14753,87,1,17.85,Potential
+14755,73,6,149.19,Can't Loose Them
+14757,75,1,34.5,Loyal
+14758,144,4,83.32,Can't Loose Them
+14759,112,2,37.75,Champions
+14762,263,1,15,Require Activation
+14765,112,2,15.95,Potential
+14766,80,4,88.53,Can't Loose Them
+14768,127,1,35.4,Promising
+14769,82,5,105.94,Can't Loose Them
+14770,232,1,15.3,Require Activation
+14772,112,1,17.4,Potential
+14775,137,1,19.8,Promising
+14776,105,7,175.8,Can't Loose Them
+14778,127,1,15,Needs Attention
+14779,280,1,22.5,Needs Attention
+14780,79,1,20.8,Loyal
+14790,119,2,22.38,Potential
+14794,203,3,49.65,Loyal
+14795,166,1,31.8,Promising
+14796,94,9,109.83,Can't Loose Them
+14798,144,1,15,Needs Attention
+14800,75,7,33.36,Can't Loose Them
+14803,162,2,179.45,Champions
+14806,75,1,10.5,Potential
+14808,74,7,182.3,Can't Loose Them
+14810,103,6,92.48,Can't Loose Them
+14816,197,1,9.95,Require Activation
+14817,200,2,21.25,Promising
+14818,73,3,17.5,Can't Loose Them
+14819,192,1,19.92,Needs Attention
+14820,75,2,40.8,Can't Loose Them
+14823,180,3,19.45,Loyal
+14824,73,2,179,Can't Loose Them
+14825,89,5,105,Can't Loose Them
+14828,196,2,259.34,Loyal
+14829,184,1,11.7,Require Activation
+14834,71,3,98.7,Can't Loose Them
+14837,89,4,58.51,Can't Loose Them
+14840,267,1,15,Require Activation
+14841,179,2,45.6,Loyal
+14842,95,2,45.9,Champions
+14844,123,3,81.8,Champions
+14847,148,1,25,Promising
+14849,95,9,183.48,Can't Loose Them
+14851,256,1,10.2,Require Activation
+14852,96,5,104.15,Can't Loose Them
+14853,211,1,19.8,Needs Attention
+14854,78,7,200.7,Can't Loose Them
+14855,119,2,50.4,Loyal
+14857,148,1,25.5,Promising
+14859,80,2,23.48,Champions
+14862,148,1,4,Needs Attention
+14866,80,4,602.25,Can't Loose Them
+14867,185,2,29.92,Promising
+14868,71,5,91.2,Can't Loose Them
+14869,103,1,19.9,Potential
+14870,261,1,14.85,Require Activation
+14871,178,2,13.89,Promising
+14873,210,1,25.5,Needs Attention
+14875,107,2,77.1,Champions
+14878,82,5,95.5,Can't Loose Them
+14880,77,2,30.3,Champions
+14883,73,4,38.92,Can't Loose Them
+14885,131,1,20.4,Promising
+14886,252,1,39.8,Promising
+14887,79,1,72,Champions
+14888,207,1,16.5,Require Activation
+14890,253,1,10.2,Require Activation
+14891,148,2,43.5,Loyal
+14894,85,1,40.8,Champions
+14895,91,12,376,Can't Loose Them
+14896,204,1,17.7,Needs Attention
+14897,88,1,19.8,Potential
+14898,134,2,94.16,Loyal
+14901,73,4,89.76,Can't Loose Them
+14903,124,4,45.7,Can't Loose Them
+14905,157,2,121.2,Champions
+14907,99,2,23.16,Loyal
+14908,74,1,9.9,Potential
+14911,70,111,7123.52,Can't Loose Them
+14912,246,1,31.8,Needs Attention
+14913,183,2,13.44,Needs Attention
+14915,91,2,57.48,Champions
+14916,70,3,22.32,Can't Loose Them
+14918,115,2,85.8,Champions
+14920,212,2,34.2,Promising
+14921,201,1,25.2,Needs Attention
+14924,245,1,47.4,Promising
+14930,108,3,72.39,Can't Loose Them
+14931,74,3,317.96,Can't Loose Them
+14934,81,2,55.8,Can't Loose Them
+14936,108,3,61.5,Can't Loose Them
+14937,130,1,35.4,Promising
+14944,77,7,193.57,Can't Loose Them
+14947,72,2,70.32,Can't Loose Them
+14948,71,5,83.52,Can't Loose Them
+14951,79,1,1.92,Potential
+14952,71,6,460.2,Can't Loose Them
+14957,253,1,5,Require Activation
+14958,147,3,47.9,Champions
+14959,109,2,30.2,Loyal
+14960,171,1,67.5,Potential
+14961,81,5,151.2,Can't Loose Them
+14962,270,1,14.85,Require Activation
+14963,183,1,5.85,Require Activation
+14964,247,1,12.75,Require Activation
+14965,96,2,77.08,Champions
+14970,137,2,107.25,Champions
+14972,128,1,12.75,Needs Attention
+14973,107,3,74.7,Can't Loose Them
+14976,101,3,32.6,Champions
+14978,72,2,43.35,Can't Loose Them
+14981,246,1,16.5,Require Activation
+14984,180,1,3.38,Needs Attention
+14985,198,1,4.95,Require Activation
+14988,211,1,1.66,Require Activation
+14995,280,1,2.5,Require Activation
+14997,88,2,32.64,Loyal
+14998,170,2,7.85,Promising
+15002,115,1,35.4,Potential
+15004,147,1,3.3,Needs Attention
+15005,78,18,87.41,Can't Loose Them
+15007,159,1,15,Needs Attention
+15014,176,1,33.15,Promising
+15016,172,1,7.95,Needs Attention
+15018,252,1,13.95,Require Activation
+15019,266,1,0.85,Require Activation
+15021,86,5,20.32,Can't Loose Them
+15023,116,6,65.25,Can't Loose Them
+15024,113,2,41.7,Champions
+15026,80,3,22.2,Can't Loose Them
+15027,168,3,169.2,Can't Loose Them
+15030,71,2,125.4,Can't Loose Them
+15031,110,2,4.95,Potential
+15032,256,1,16.5,Require Activation
+15033,109,5,44.65,Can't Loose Them
+15034,70,4,56.73,Can't Loose Them
+15035,89,1,3.75,Promising
+15036,72,3,28.27,Can't Loose Them
+15038,187,3,15.94,Promising
+15039,80,26,627.65,Can't Loose Them
+15041,170,1,4.15,Needs Attention
+15042,199,1,76.5,Promising
+15044,75,7,107.73,Can't Loose Them
+15045,151,2,95.28,Loyal
+15046,96,6,207.65,Can't Loose Them
+15047,269,1,12.6,Require Activation
+15048,116,2,16.75,Loyal
+15049,273,1,1.7,Require Activation
+15050,71,2,37.5,Can't Loose Them
+15051,150,1,8.25,Needs Attention
+15053,156,2,29.25,Potential
+15057,275,1,269.1,Potential
+15058,81,5,83.1,Can't Loose Them
+15059,107,4,22.87,Can't Loose Them
+15061,73,23,3417.7,Can't Loose Them
+15062,71,2,35.8,Can't Loose Them
+15063,213,1,30.6,Needs Attention
+15065,164,2,32.7,Potential
+15067,78,3,72.9,Can't Loose Them
+15068,256,1,13.5,Require Activation
+15069,179,1,12.75,Needs Attention
+15071,93,2,155.8,Can't Loose Them
+15073,185,2,79.68,Potential
+15074,105,1,34.68,Potential
+15075,77,1,33.2,Loyal
+15076,172,1,21.9,Promising
+15078,74,17,319.15,Can't Loose Them
+15079,212,2,88.4,Potential
+15081,86,2,39.8,Champions
+15083,256,1,34.8,Needs Attention
+15087,281,1,24.96,Needs Attention
+15089,94,3,41.61,Can't Loose Them
+15092,215,2,54.15,Potential
+15093,116,2,270.3,Can't Loose Them
+15095,103,4,85.2,Can't Loose Them
+15098,182,3,39916.5,Can't Loose Them
+15099,84,1,14.75,Potential
+15103,86,1,23.4,Potential
+15104,196,2,56.4,Potential
+15105,86,3,49.36,Can't Loose Them
+15106,141,3,46.74,Champions
+15108,141,4,90.25,Can't Loose Them
+15109,245,1,15,Require Activation
+15110,126,1,10.2,Needs Attention
+15114,71,8,133.22,Can't Loose Them
+15116,134,2,117.8,Champions
+15117,120,2,37.3,Loyal
+15118,134,1,244.8,Loyal
+15119,245,1,33.9,Needs Attention
+15120,133,1,39.6,Potential
+15122,114,2,32.3,Loyal
+15123,206,1,15.3,Require Activation
+15124,191,1,7.8,Require Activation
+15125,113,12,1427.04,Can't Loose Them
+15128,126,3,58.4,Champions
+15129,106,9,621.45,Can't Loose Them
+15130,169,1,15,Needs Attention
+15132,105,3,48.6,Can't Loose Them
+15133,127,2,79.56,Loyal
+15134,72,5,104.48,Can't Loose Them
+15135,239,1,19.5,Needs Attention
+15136,96,1,29.88,Potential
+15139,239,1,9.36,Require Activation
+15140,79,6,128.16,Can't Loose Them
+15143,225,1,19.8,Needs Attention
+15144,71,11,364.5,Can't Loose Them
+15145,227,2,25.2,Promising
+15146,164,1,19.8,Promising
+15147,240,1,15,Require Activation
+15149,133,1,17,Promising
+15150,73,7,155.86,Can't Loose Them
+15152,84,7,132.79,Can't Loose Them
+15154,75,1,2.95,Potential
+15157,154,1,9.36,Needs Attention
+15159,89,16,506.62,Can't Loose Them
+15163,192,1,69.3,Promising
+15164,208,1,2.1,Require Activation
+15172,70,4,60.3,Can't Loose Them
+15175,71,1,17.4,Loyal
+15178,260,1,19.5,Needs Attention
+15179,233,2,169.5,Loyal
+15181,175,2,81,Loyal
+15182,154,2,36.6,Loyal
+15184,190,1,11.9,Require Activation
+15185,70,1,15.6,Potential
+15186,168,1,31.6,Promising
+15187,70,8,706.16,Can't Loose Them
+15189,91,29,1904.71,Can't Loose Them
+15192,119,2,45.3,Loyal
+15194,78,8,149.85,Can't Loose Them
+15197,252,1,39,Promising
+15198,92,2,33.32,Loyal
+15199,94,2,340,Can't Loose Them
+15201,87,5,203.98,Can't Loose Them
+15203,79,4,50.34,Can't Loose Them
+15205,85,2,22.65,Champions
+15206,99,3,96.6,Can't Loose Them
+15208,163,1,51,Potential
+15210,225,1,14.75,Require Activation
+15212,241,1,11.6,Require Activation
+15214,75,3,44.58,Can't Loose Them
+15215,96,1,17.7,Potential
+15216,87,1,63.6,Loyal
+15218,74,8,452.6,Can't Loose Them
+15219,176,1,79.8,Potential
+15220,115,5,109.8,Can't Loose Them
+15223,225,2,80.7,Potential
+15225,234,1,15,Require Activation
+15227,215,1,15.8,Require Activation
+15228,129,2,39.6,Loyal
+15230,239,2,94.8,Potential
+15232,113,2,34,Loyal
+15234,276,1,15,Require Activation
+15235,217,3,61.5,Loyal
+15237,78,3,46.22,Can't Loose Them
+15238,95,2,23.52,Loyal
+15239,78,1,15,Potential
+15240,84,3,62.88,Can't Loose Them
+15241,73,7,125.1,Can't Loose Them
+15243,74,1,12.48,Potential
+15244,248,1,19.8,Needs Attention
+15245,134,3,80,Champions
+15246,238,1,10.2,Require Activation
+15247,122,1,81.6,Potential
+15249,91,11,296.55,Can't Loose Them
+15251,91,8,879.06,Can't Loose Them
+15252,183,1,19.8,Needs Attention
+15253,88,3,65.25,Can't Loose Them
+15254,127,1,16.8,Promising
+15256,148,1,16.5,Needs Attention
+15257,283,1,33.9,Needs Attention
+15258,168,2,33.5,Potential
+15260,100,5,98.9,Can't Loose Them
+15261,135,1,4.56,Needs Attention
+15263,106,1,17.4,Potential
+15265,151,2,32.55,Potential
+15267,155,2,401.76,Champions
+15270,117,2,43.9,Champions
+15271,94,8,114.94,Can't Loose Them
+15272,86,1,26.1,Potential
+15280,172,1,0.72,Needs Attention
+15281,136,6,143.52,Can't Loose Them
+15287,70,1,90,Champions
+15288,155,3,83.1,Champions
+15289,137,2,30.24,Potential
+15290,79,9,271,Can't Loose Them
+15291,94,8,548.63,Can't Loose Them
+15292,201,1,3.3,Require Activation
+15296,109,4,56.75,Can't Loose Them
+15298,92,4,1063.4,Can't Loose Them
+15299,164,2,1200,Champions
+15301,72,10,868.3,Can't Loose Them
+15304,85,6,235.45,Can't Loose Them
+15306,92,2,119.4,Can't Loose Them
+15307,95,1,22.5,Potential
+15308,274,1,19.9,Needs Attention
+15311,73,44,2613.55,Can't Loose Them
+15312,75,3,41.8,Can't Loose Them
+15313,110,1,52,Loyal
+15314,199,1,5.04,Require Activation
+15315,116,1,18,Potential
+15319,283,1,11.9,Require Activation
+15321,70,2,92.7,Can't Loose Them
+15322,85,1,8.5,Potential
+15325,103,1,1.25,Promising
+15329,134,2,25.5,Potential
+15333,208,1,22.5,Needs Attention
+15334,156,3,21.54,Loyal
+15341,80,1,102,Can't Loose Them
+15342,129,1,15.3,Needs Attention
+15343,87,1,25.5,Potential
+15344,74,1,12.5,Potential
+15348,72,1,15,Potential
+15349,158,2,18.4,Potential
+15351,79,1,1.65,Potential
+15353,254,1,21.9,Needs Attention
+15356,71,6,24.2,Can't Loose Them
+15358,74,12,225.92,Can't Loose Them
+15364,95,2,104.76,Can't Loose Them
+15365,81,3,224.4,Can't Loose Them
+15366,75,1,30,Loyal
+15367,245,2,32.1,Promising
+15370,71,3,111.1,Can't Loose Them
+15372,137,1,88.8,Potential
+15373,115,5,106.75,Can't Loose Them
+15374,128,1,91.8,Potential
+15376,117,2,20.3,Loyal
+15379,169,4,107.56,Can't Loose Them
+15380,86,2,36.9,Champions
+15381,213,2,349.95,Loyal
+15382,84,4,113.7,Can't Loose Them
+15384,169,1,15.3,Needs Attention
+15386,186,1,23.4,Needs Attention
+15388,270,1,23.4,Needs Attention
+15389,172,1,500,Loyal
+15392,88,1,13.2,Promising
+15393,281,1,9.9,Require Activation
+15394,78,2,44.2,Can't Loose Them
+15396,112,1,68,Loyal
+15398,78,1,16.5,Potential
+15399,79,1,16.5,Potential
+15400,92,5,331.9,Can't Loose Them
+15402,148,2,64.2,Loyal
+15405,189,1,61.2,Promising
+15407,183,2,5.08,Needs Attention
+15408,264,1,4.95,Require Activation
+15410,84,8,219.97,Can't Loose Them
+15411,70,3,41.1,Can't Loose Them
+15412,171,1,102,Loyal
+15414,242,1,15.3,Require Activation
+15416,155,3,49.65,Champions
+15417,85,1,15.6,Potential
+15421,215,2,47.8,Potential
+15424,254,2,48.72,Potential
+15426,257,1,4.2,Require Activation
+15429,75,1,9.95,Potential
+15433,213,2,23.46,Promising
+15434,107,3,41.62,Can't Loose Them
+15436,234,1,1.25,Require Activation
+15437,262,1,3.3,Require Activation
+15438,131,1,11.8,Needs Attention
+15440,136,2,5.8,Promising
+15442,248,1,297,Potential
+15443,73,2,22.35,Champions
+15445,264,1,20.4,Needs Attention
+15449,185,2,41.6,Potential
+15452,71,2,32.65,Champions
+15453,92,4,32.15,Can't Loose Them
+15456,283,2,8.05,Needs Attention
+15457,262,1,1.25,Require Activation
+15462,94,3,54.6,Can't Loose Them
+15465,82,10,1953.25,Can't Loose Them
+15466,85,1,5.1,Potential
+15467,145,2,40.2,Loyal
+15469,120,1,35.4,Promising
+15472,113,1,2.08,Promising
+15475,77,1,17.85,Loyal
+15480,116,1,34,Potential
+15482,165,2,57.56,Loyal
+15483,161,4,10.64,Loyal
+15484,78,1,13.52,Potential
+15488,92,1,15,Promising
+15489,211,1,19.5,Needs Attention
+15491,95,6,181.2,Can't Loose Them
+15492,74,1,5.04,Potential
+15493,149,3,15.48,Potential
+15494,121,1,1.68,Needs Attention
+15498,84,16,632.49,Can't Loose Them
+15500,81,1,7.8,Potential
+15502,89,5,424.5,Can't Loose Them
+15504,81,1,7.5,Potential
+15505,84,4,114.98,Can't Loose Them
+15506,138,1,7.95,Needs Attention
+15507,171,1,7.95,Needs Attention
+15508,189,6,52.01,Champions
+15511,85,1,9.95,Potential
+15512,155,1,19.8,Promising
+15513,94,12,509.11,Can't Loose Them
+15514,225,2,52.5,Potential
+15517,233,1,7.56,Require Activation
+15518,124,4,16.89,Champions
+15521,94,7,207.85,Can't Loose Them
+15522,87,1,2.52,Promising
+15523,84,1,232.5,Can't Loose Them
+15527,89,4,27.73,Can't Loose Them
+15528,254,1,3.75,Require Activation
+15529,87,6,75.8,Can't Loose Them
+15530,149,3,13.34,Potential
+15532,131,2,16.95,Potential
+15533,82,2,39.75,Can't Loose Them
+15535,173,2,13.15,Promising
+15537,163,1,1.25,Needs Attention
+15541,114,1,2.08,Promising
+15544,119,4,47.85,Can't Loose Them
+15547,82,7,47.45,Can't Loose Them
+15549,77,2,38.25,Can't Loose Them
+15550,106,2,13.2,Potential
+15552,217,1,5.9,Require Activation
+15554,277,1,15.9,Require Activation
+15555,78,8,99.15,Can't Loose Them
+15561,149,3,121.8,Can't Loose Them
+15563,200,1,36.25,Promising
+15565,70,1,16.5,Potential
+15568,73,1,9.36,Potential
+15569,103,4,671.76,Can't Loose Them
+15570,141,3,34.05,Loyal
+15571,78,1,24.9,Loyal
+15572,109,4,22.55,Can't Loose Them
+15573,85,1,0.21,Potential
+15574,177,1,17,Promising
+15577,151,2,15.9,Promising
+15578,162,1,7.95,Needs Attention
+15581,120,9,2737.25,Can't Loose Them
+15582,100,2,29.85,Loyal
+15584,72,2,10.03,Loyal
+15585,176,1,15.9,Needs Attention
+15587,89,2,182.16,Can't Loose Them
+15589,255,2,45.3,Potential
+15593,70,1,15,Potential
+15594,81,3,46.52,Can't Loose Them
+15596,100,3,38.05,Can't Loose Them
+15599,204,1,27.04,Needs Attention
+15601,89,5,119.66,Can't Loose Them
+15602,70,2,39.8,Can't Loose Them
+15603,78,1,34.56,Loyal
+15605,89,2,30.3,Loyal
+15606,119,5,273.92,Can't Loose Them
+15608,120,1,17,Promising
+15609,184,1,19.8,Needs Attention
+15611,70,9,389.42,Can't Loose Them
+15615,105,14,308.34,Can't Loose Them
+15618,92,3,64.8,Can't Loose Them
+15620,220,1,16.5,Require Activation
+15622,86,8,172.74,Can't Loose Them
+15623,141,1,17.7,Promising
+15624,116,4,73.05,Can't Loose Them
+15625,103,4,70.2,Can't Loose Them
+15626,74,1,10.2,Potential
+15628,98,4,75.9,Can't Loose Them
+15630,204,1,19.8,Needs Attention
+15632,121,6,132.06,Can't Loose Them
+15636,89,2,50.4,Champions
+15639,134,1,39.8,Potential
+15640,78,7,252.9,Can't Loose Them
+15641,105,3,34.71,Champions
+15643,191,3,114.4,Champions
+15644,166,4,12.6,Loyal
+15646,157,2,37.6,Loyal
+15648,204,2,35.25,Promising
+15651,260,1,5.04,Require Activation
+15652,91,1,30,Potential
+15653,92,2,432.12,Can't Loose Them
+15655,243,1,15.9,Require Activation
+15656,178,2,27.81,Potential
+15658,190,3,32.5,Potential
+15660,85,6,143.26,Can't Loose Them
+15663,106,1,14.04,Promising
+15665,168,2,43.8,Loyal
+15668,217,1,76.32,Promising
+15669,103,3,118.32,Can't Loose Them
+15671,94,5,269.52,Can't Loose Them
+15673,88,3,46.5,Can't Loose Them
+15674,73,5,402.67,Can't Loose Them
+15675,81,3,49.2,Can't Loose Them
+15676,283,1,8.5,Require Activation
+15679,154,2,27.06,Potential
+15681,183,3,62.7,Loyal
+15683,117,1,20.8,Potential
+15687,186,2,47.6,Potential
+15689,119,1,30,Promising
+15690,100,1,46.8,Loyal
+15691,252,1,45,Promising
+15694,176,5,579,Can't Loose Them
+15695,266,2,55.95,Potential
+15696,79,4,81.9,Can't Loose Them
+15700,172,2,16.4,Promising
+15701,73,2,21.95,Champions
+15703,264,1,23.4,Needs Attention
+15704,140,4,91.8,Can't Loose Them
+15705,201,1,60,Promising
+15706,75,2,32.4,Champions
+15707,86,1,7.95,Promising
+15708,138,2,27.57,Potential
+15709,283,1,38.16,Promising
+15712,71,3,231.06,Can't Loose Them
+15713,143,1,15,Needs Attention
+15714,77,1,25.2,Loyal
+15716,145,3,15.92,Potential
+15717,234,1,35.4,Needs Attention
+15719,99,9,68.4,Can't Loose Them
+15722,108,2,32.45,Loyal
+15724,201,1,15,Require Activation
+15727,107,4,92.7,Can't Loose Them
+15729,212,1,15,Require Activation
+15730,92,2,28.65,Loyal
+15732,212,1,16.5,Require Activation
+15733,282,1,19.8,Needs Attention
+15734,114,2,61.5,Champions
+15737,79,6,108.3,Can't Loose Them
+15738,96,9,169.17,Can't Loose Them
+15743,113,2,22.5,Loyal
+15744,77,1,13.92,Potential
+15745,73,2,43.35,Can't Loose Them
+15746,134,1,18.75,Promising
+15747,120,2,18.65,Potential
+15749,235,1,4632,Potential
+15750,72,3,16.63,Can't Loose Them
+15752,93,5,35.09,Can't Loose Them
+15754,73,2,32.34,Champions
+15755,74,4,73.08,Can't Loose Them
+15756,152,3,8.76,Potential
+15757,217,1,35.7,Needs Attention
+15759,218,1,68,Promising
+15762,77,1,17.34,Loyal
+15763,77,1,14.85,Potential
+15764,88,6,86.7,Can't Loose Them
+15768,115,3,46.35,Can't Loose Them
+15769,87,15,6609.4,Can't Loose Them
+15775,245,1,15,Require Activation
+15776,133,1,7.44,Needs Attention
+15777,241,1,16.5,Require Activation
+15780,183,2,45,Potential
+15781,137,1,35.4,Promising
+15782,89,1,102,Champions
+15785,157,3,47.88,Champions
+15786,114,1,35.8,Loyal
+15791,204,1,39.6,Promising
+15793,268,1,81.6,Promising
+15795,149,1,6.96,Needs Attention
+15796,72,5,100.5,Can't Loose Them
+15797,113,2,697.2,Can't Loose Them
+15799,75,2,9.9,Loyal
+15800,107,2,15.18,Potential
+15801,109,1,17,Potential
+15802,142,1,451.42,Loyal
+15804,78,8,123.98,Can't Loose Them
+15805,106,9,187.91,Can't Loose Them
+15806,157,2,26.43,Potential
+15807,77,1,11.4,Potential
+15809,184,3,55.3,Loyal
+15810,78,3,40.39,Can't Loose Them
+15811,105,2,31.5,Loyal
+15812,107,4,488.25,Can't Loose Them
+15813,207,2,40.35,Potential
+15815,140,4,325.7,Can't Loose Them
+15819,131,3,45.64,Champions
+15825,172,1,25.5,Promising
+15826,210,1,40.8,Promising
+15827,73,9,162.8,Can't Loose Them
+15829,99,2,9.6,Potential
+15831,124,1,15.6,Needs Attention
+15832,254,1,12.5,Require Activation
+15834,70,4,154.85,Can't Loose Them
+15835,137,2,35.8,Loyal
+15838,77,11,1817.56,Can't Loose Them
+15839,80,2,26.46,Champions
+15840,172,1,6.84,Needs Attention
+15841,72,3,156.08,Can't Loose Them
+15845,86,4,129.8,Can't Loose Them
+15850,168,1,1.05,Needs Attention
+15852,186,2,70.25,Potential
+15854,86,7,755.05,Can't Loose Them
+15855,136,5,40.15,Can't Loose Them
+15856,95,13,372.23,Can't Loose Them
+15858,77,1,11.85,Potential
+15860,75,6,30.68,Can't Loose Them
+15861,134,3,28.35,Loyal
+15862,112,2,32,Loyal
+15863,192,1,1.25,Require Activation
+15864,98,2,324.48,Can't Loose Them
+15865,88,2,56.6,Champions
+15866,101,1,16.95,Potential
+15867,70,7,70.69,Can't Loose Them
+15869,277,2,18,Promising
+15874,177,5,232.25,Can't Loose Them
+15882,198,2,15.8,Needs Attention
+15885,92,2,34.8,Loyal
+15888,80,1,22.5,Loyal
+15889,156,1,15.9,Needs Attention
+15891,226,1,2.55,Require Activation
+15894,253,1,7.56,Require Activation
+15895,149,1,137.16,Loyal
+15897,194,2,12.7,Needs Attention
+15898,226,2,294.5,Loyal
+15901,77,2,18.45,Champions
+15903,70,3,289.68,Can't Loose Them
+15906,144,4,30.4,Champions
+15907,176,2,11.7,Promising
+15909,173,1,19.8,Promising
+15910,99,3,11.23,Loyal
+15912,178,2,30.42,Potential
+15916,77,3,38.4,Can't Loose Them
+15917,247,1,10.2,Require Activation
+15918,190,2,40.5,Potential
+15920,154,4,9.25,Loyal
+15921,172,1,10.2,Needs Attention
+15925,194,1,38.25,Promising
+15932,88,6,105,Can't Loose Them
+15933,71,2,24.81,Champions
+15935,239,2,324.62,Loyal
+15938,112,4,165.8,Can't Loose Them
+15939,89,11,784.46,Can't Loose Them
+15942,133,1,10.08,Needs Attention
+15944,276,1,17.7,Needs Attention
+15947,82,1,179,Can't Loose Them
+15949,71,1,15,Potential
+15950,78,2,28.75,Champions
+15952,159,2,15.85,Promising
+15953,211,2,23.35,Promising
+15955,71,9,238.46,Can't Loose Them
+15958,74,1,3.95,Potential
+15969,185,1,34,Needs Attention
+15971,88,7,801.95,Can't Loose Them
+15974,95,5,87.01,Can't Loose Them
+15975,84,1,17.7,Loyal
+15976,165,2,18.15,Potential
+15978,77,1,20.8,Loyal
+15980,88,3,120.64,Can't Loose Them
+15981,77,6,277.3,Can't Loose Them
+15984,71,5,158.1,Can't Loose Them
+15985,123,2,36.9,Loyal
+15987,120,5,492.15,Can't Loose Them
+15996,88,4,34.15,Can't Loose Them
+15998,87,3,29.25,Champions
+16003,134,2,31.3,Potential
+16005,182,2,5.95,Promising
+16006,211,1,23.1,Needs Attention
+16007,180,2,26.75,Potential
+16008,75,2,37.6,Can't Loose Them
+16009,159,1,6.24,Needs Attention
+16010,245,2,8.84,Needs Attention
+16011,71,9,195.01,Can't Loose Them
+16012,128,2,43.4,Loyal
+16013,70,24,10402.34,Can't Loose Them
+16014,152,1,7.8,Needs Attention
+16016,79,4,43.05,Can't Loose Them
+16018,180,1,3.75,Needs Attention
+16019,136,3,31.97,Loyal
+16022,260,1,7.95,Require Activation
+16023,192,2,10.45,Needs Attention
+16027,91,4,331.75,Can't Loose Them
+16029,80,39,15119.49,Can't Loose Them
+16031,92,2,20.45,Loyal
+16033,82,12,230.6,Can't Loose Them
+16034,196,2,87.75,Potential
+16036,87,2,90.84,Champions
+16037,269,1,23.4,Needs Attention
+16038,177,2,38.1,Loyal
+16040,148,2,40.5,Loyal
+16041,141,2,1153.4,Champions
+16042,107,1,19.8,Potential
+16043,211,2,84.3,Potential
+16045,119,3,58.2,Champions
+16049,75,1,0.55,Potential
+16050,173,1,24.9,Promising
+16053,122,1,20.8,Promising
+16054,145,1,7.95,Needs Attention
+16055,220,1,12.75,Require Activation
+16057,96,5,104.55,Can't Loose Them
+16059,71,3,37.7,Can't Loose Them
+16062,133,2,24.94,Potential
+16063,260,1,17.4,Needs Attention
+16066,124,1,35.7,Promising
+16076,79,6,128.73,Can't Loose Them
+16078,283,1,79.2,Promising
+16080,81,2,66.8,Can't Loose Them
+16081,87,3,55.2,Can't Loose Them
+16083,100,1,33.2,Potential
+16085,79,2,20.45,Champions
+16086,98,2,65.2,Champions
+16091,154,2,40.6,Loyal
+16092,114,3,44.98,Can't Loose Them
+16093,106,1,17,Potential
+16094,219,1,15.9,Require Activation
+16096,264,1,10.08,Require Activation
+16097,240,1,30,Needs Attention
+16098,87,5,156.15,Can't Loose Them
+16099,137,2,50.8,Loyal
+16101,70,1,15,Potential
+16102,98,2,94.8,Champions
+16103,79,5,140.8,Can't Loose Them
+16105,248,1,15.6,Require Activation
+16107,89,4,240.3,Can't Loose Them
+16108,84,1,24.96,Loyal
+16109,218,1,4.56,Require Activation
+16110,262,1,0.42,Require Activation
+16112,143,2,18.16,Potential
+16113,183,1,15.12,Require Activation
+16114,170,1,17.7,Promising
+16115,72,5,38.41,Can't Loose Them
+16116,211,1,13.52,Require Activation
+16117,189,1,7.8,Require Activation
+16119,72,1,17.7,Loyal
+16121,215,1,5.9,Require Activation
+16122,73,2,143.04,Can't Loose Them
+16126,101,2,92.4,Champions
+16128,77,3,72.78,Can't Loose Them
+16131,115,4,101.84,Can't Loose Them
+16133,70,23,1317.41,Can't Loose Them
+16135,262,1,175.2,Potential
+16136,77,2,51.2,Can't Loose Them
+16139,112,2,40.32,Champions
+16141,88,1,17.85,Potential
+16142,249,1,19.8,Needs Attention
+16143,108,2,30.6,Loyal
+16144,246,1,175.2,Potential
+16145,73,6,90.65,Can't Loose Them
+16146,157,3,247.8,Can't Loose Them
+16147,133,1,16.5,Needs Attention
+16149,142,1,9.12,Needs Attention
+16150,88,3,69.6,Can't Loose Them
+16152,268,1,81.6,Promising
+16153,115,3,45,Can't Loose Them
+16156,85,5,105.84,Can't Loose Them
+16157,72,1,29.7,Loyal
+16159,281,1,15,Require Activation
+16160,85,1,62.4,Champions
+16161,78,7,104.55,Can't Loose Them
+16162,252,1,25.5,Needs Attention
+16163,232,1,415,Potential
+16168,74,17,720.5,Can't Loose Them
+16169,75,1,20.8,Loyal
+16170,112,5,116.18,Can't Loose Them
+16172,95,5,105.6,Can't Loose Them
+16173,78,3,40.2,Can't Loose Them
+16174,126,3,439.8,Can't Loose Them
+16175,94,4,55.47,Can't Loose Them
+16178,138,1,17.4,Promising
+16180,100,8,374.75,Can't Loose Them
+16181,73,1,11.9,Potential
+16182,72,3,532,Can't Loose Them
+16184,105,5,107.3,Can't Loose Them
+16185,232,1,22.5,Needs Attention
+16186,103,8,118.62,Can't Loose Them
+16187,75,11,349.76,Can't Loose Them
+16188,141,3,35.59,Loyal
+16189,85,1,17.4,Loyal
+16191,262,1,90,Promising
+16193,236,1,25.2,Needs Attention
+16198,75,1,20.28,Loyal
+16200,164,1,33.9,Promising
+16201,109,1,20.8,Potential
+16203,147,2,30,Potential
+16205,179,1,8.3,Needs Attention
+16206,124,2,21.48,Potential
+16209,88,5,1422.72,Can't Loose Them
+16210,86,6,687.36,Can't Loose Them
+16211,88,1,29.85,Potential
+16212,283,1,16.5,Require Activation
+16213,78,1,11.7,Potential
+16214,170,3,157.2,Can't Loose Them
+16215,80,1,15,Potential
+16216,267,1,16.8,Needs Attention
+16217,235,2,40.05,Potential
+16218,114,5,307.8,Can't Loose Them
+16221,275,1,18,Needs Attention
+16224,141,3,53.4,Champions
+16225,149,4,52.11,Can't Loose Them
+16226,203,3,62.7,Loyal
+16227,225,1,17.7,Needs Attention
+16229,87,2,80.2,Champions
+16230,189,2,26.46,Promising
+16232,143,3,60.45,Champions
+16233,71,1,12.48,Potential
+16235,81,2,25.9,Champions
+16236,78,1,15.9,Potential
+16239,189,1,33.6,Needs Attention
+16240,77,1,290,Can't Loose Them
+16241,96,8,55.9,Can't Loose Them
+16242,165,3,30.18,Loyal
+16244,211,1,17,Needs Attention
+16245,121,2,23.7,Potential
+16247,170,1,4.95,Needs Attention
+16249,112,4,96.7,Can't Loose Them
+16250,261,1,8.5,Require Activation
+16253,255,1,39.6,Promising
+16255,95,4,50.6,Can't Loose Them
+16256,266,1,102,Potential
+16257,176,1,21.95,Promising
+16258,127,4,383.9,Can't Loose Them
+16261,75,3,8.63,Champions
+16265,110,3,57,Can't Loose Them
+16266,73,7,74.5,Can't Loose Them
+16268,71,2,33.9,Champions
+16271,126,2,21.22,Potential
+16272,116,1,20.8,Potential
+16275,196,1,12.75,Require Activation
+16276,176,1,532.8,Loyal
+16278,100,1,220,Champions
+16279,87,2,25.75,Loyal
+16281,72,1,50,Champions
+16283,120,3,18.93,Loyal
+16287,169,1,15.6,Needs Attention
+16292,121,1,30,Promising
+16293,91,5,69.57,Can't Loose Them
+16297,268,1,14.85,Require Activation
+16298,186,1,15,Require Activation
+16302,126,1,19.92,Promising
+16303,115,1,41.6,Loyal
+16305,138,1,19.8,Promising
+16306,213,1,10.2,Require Activation
+16308,107,3,1600,Can't Loose Them
+16309,106,2,20.04,Loyal
+16316,157,6,85.36,Can't Loose Them
+16317,119,2,45,Loyal
+16319,217,1,142.8,Potential
+16320,172,2,39.96,Loyal
+16321,72,2,70.8,Can't Loose Them
+16323,196,1,207.5,Potential
+16324,128,3,17.4,Loyal
+16325,155,2,50.4,Loyal
+16326,75,7,54.85,Can't Loose Them
+16327,80,3,45.55,Can't Loose Them
+16330,112,2,1.89,Potential
+16332,72,3,23.83,Can't Loose Them
+16333,98,15,6646.88,Can't Loose Them
+16338,157,1,11.9,Needs Attention
+16340,107,1,0.65,Promising
+16341,85,2,32.1,Champions
+16342,75,4,82.56,Can't Loose Them
+16344,158,1,35.7,Promising
+16348,78,5,34.68,Can't Loose Them
+16350,85,1,17.9,Loyal
+16353,87,7,748.2,Can't Loose Them
+16354,73,1,11.9,Potential
+16356,197,3,34.1,Potential
+16357,162,2,75.3,Loyal
+16358,79,2,64.92,Can't Loose Them
+16359,94,5,306.65,Can't Loose Them
+16360,80,2,6.35,Loyal
+16361,71,1,3.9,Potential
+16362,91,3,38.2,Can't Loose Them
+16364,137,1,4.95,Needs Attention
+16365,123,5,126.4,Can't Loose Them
+16369,80,2,42.9,Can't Loose Them
+16370,82,4,59.3,Can't Loose Them
+16374,262,1,2.1,Require Activation
+16377,267,1,180,Potential
+16378,247,1,15,Require Activation
+16379,78,1,27.04,Loyal
+16383,74,2,20.4,Champions
+16384,89,2,34.7,Loyal
+16385,158,1,5.85,Needs Attention
+16386,253,1,10.2,Require Activation
+16389,78,3,152.4,Can't Loose Them
+16392,269,1,5,Require Activation
+16393,94,6,24.2,Can't Loose Them
+16394,72,3,105.57,Can't Loose Them
+16395,78,2,17.01,Champions
+16398,154,2,83.4,Loyal
+16399,235,1,9.75,Require Activation
+16400,94,1,15,Promising
+16401,86,6,191.85,Can't Loose Them
+16402,264,1,15.8,Require Activation
+16404,70,1,15.6,Potential
+16407,74,6,57.95,Can't Loose Them
+16409,87,3,48.9,Can't Loose Them
+16414,280,1,15.9,Require Activation
+16418,92,2,13.4,Potential
+16419,112,5,137.78,Can't Loose Them
+16422,73,30,2533.08,Can't Loose Them
+16424,191,1,15.9,Require Activation
+16426,92,4,114.95,Can't Loose Them
+16427,263,1,0.84,Require Activation
+16429,106,1,4.95,Promising
+16431,213,1,5.95,Require Activation
+16434,96,3,48.33,Can't Loose Them
+16438,82,1,1.45,Potential
+16440,214,1,6.3,Require Activation
+16442,227,1,0.8,Require Activation
+16444,95,3,16.5,Loyal
+16446,205,1,1.65,Require Activation
+16447,135,1,19.9,Promising
+16448,198,1,10.5,Require Activation
+16449,197,2,50.16,Potential
+16450,149,1,40.56,Potential
+16451,87,1,6.72,Promising
+16455,94,3,58.2,Can't Loose Them
+16456,99,3,55.45,Can't Loose Them
+16457,218,1,35.7,Needs Attention
+16458,72,10,199.94,Can't Loose Them
+16460,72,2,14.63,Loyal
+16461,177,1,9.95,Needs Attention
+16462,73,3,136,Can't Loose Them
+16463,204,1,14.85,Require Activation
+16464,80,2,13.55,Loyal
+16466,103,4,55.45,Can't Loose Them
+16468,74,1,62.4,Champions
+16469,87,3,4.14,Loyal
+16470,115,2,4.69,Potential
+16471,274,1,15.8,Require Activation
+16473,164,1,19.8,Promising
+16474,89,3,28.35,Champions
+16475,88,4,159.3,Can't Loose Them
+16477,131,3,49.85,Champions
+16480,75,1,10.5,Potential
+16483,192,1,14.95,Require Activation
+16484,173,2,26.7,Potential
+16485,77,1,7.5,Potential
+16488,114,2,68,Champions
+16493,79,2,33.12,Champions
+16495,276,2,9.45,Needs Attention
+16496,207,1,12.75,Require Activation
+16497,203,3,74.7,Loyal
+16498,161,2,14.1,Promising
+16503,106,2,33.6,Loyal
+16511,144,2,5.7,Promising
+16515,91,3,17.5,Champions
+16517,277,1,14.75,Require Activation
+16520,186,2,16.5,Needs Attention
+16523,79,14,411.75,Can't Loose Them
+16525,79,17,1559.48,Can't Loose Them
+16526,171,1,13.52,Needs Attention
+16527,81,1,8.25,Potential
+16529,190,1,5.95,Require Activation
+16531,74,2,55.5,Can't Loose Them
+16532,135,1,374.4,Loyal
+16536,110,1,8.32,Promising
+16539,219,1,67.5,Promising
+16545,164,1,25.2,Promising
+16549,89,2,4.18,Potential
+16550,108,4,58.05,Can't Loose Them
+16551,95,2,23.64,Loyal
+16552,242,1,17.7,Needs Attention
+16553,163,9,875.82,Can't Loose Them
+16554,222,1,10.2,Require Activation
+16555,109,1,19.8,Potential
+16556,105,4,67.14,Can't Loose Them
+16557,137,1,12.5,Needs Attention
+16558,78,11,218.9,Can't Loose Them
+16566,170,2,179.56,Champions
+16567,194,1,15,Require Activation
+16570,127,5,97.08,Can't Loose Them
+16571,176,2,39.6,Loyal
+16572,127,3,38.25,Champions
+16573,84,1,13.5,Potential
+16574,71,1,15,Potential
+16581,182,1,10.2,Needs Attention
+16582,113,1,162.72,Champions
+16584,80,2,120.8,Can't Loose Them
+16586,248,1,18,Needs Attention
+16587,232,1,15,Require Activation
+16589,71,3,43.85,Can't Loose Them
+16592,136,9,134.24,Can't Loose Them
+16593,189,1,6.6,Require Activation
+16594,75,1,1.25,Potential
+16600,74,2,31.22,Champions
+16603,74,2,19.6,Champions
+16607,73,7,102.88,Can't Loose Them
+16609,87,6,110.86,Can't Loose Them
+16610,219,1,17.7,Needs Attention
+16611,186,1,5.04,Require Activation
+16612,119,2,29.2,Potential
+16613,70,1,16.6,Loyal
+16614,182,1,15.6,Needs Attention
+16616,157,1,10.08,Needs Attention
+16617,235,1,53.1,Promising
+16618,210,3,74.91,Loyal
+16619,263,1,11.4,Require Activation
+16620,260,1,19.5,Needs Attention
+16621,147,3,44.1,Champions
+16623,245,1,8.85,Require Activation
+16624,80,2,21.15,Champions
+16625,274,1,8.5,Require Activation
+16626,73,9,358.61,Can't Loose Them
+16627,79,1,18.72,Loyal
+16628,106,4,177.8,Can't Loose Them
+16629,73,2,7.56,Loyal
+16633,78,4,87.8,Can't Loose Them
+16634,222,1,53.1,Promising
+16637,123,2,28.92,Potential
+16638,99,5,126.6,Can't Loose Them
+16639,206,2,39.7,Potential
+16641,105,1,17.7,Potential
+16642,207,1,34,Needs Attention
+16643,245,1,27,Needs Attention
+16644,177,2,24.14,Potential
+16647,169,2,22.44,Potential
+16650,71,1,5.04,Potential
+16652,109,5,238.38,Can't Loose Them
+16653,71,1,17.4,Loyal
+16654,141,3,75.1,Champions
+16655,75,3,74.92,Can't Loose Them
+16656,79,9,1267.98,Can't Loose Them
+16657,148,2,14.1,Promising
+16659,189,1,20.4,Needs Attention
+16660,210,1,101.76,Potential
+16668,116,4,49.38,Can't Loose Them
+16669,78,2,38.65,Can't Loose Them
+16670,106,5,71.1,Can't Loose Them
+16671,164,1,816,Loyal
+16672,72,18,1215.48,Can't Loose Them
+16674,98,1,3.75,Promising
+16676,213,2,32,Promising
+16678,98,8,183.36,Can't Loose Them
+16681,72,6,417.96,Can't Loose Them
+16682,92,3,189.8,Can't Loose Them
+16684,133,12,2604.16,Can't Loose Them
+16686,98,4,45.49,Can't Loose Them
+16689,75,2,85.84,Can't Loose Them
+16690,72,2,67.2,Can't Loose Them
+16692,256,1,150,Potential
+16693,271,1,23.8,Needs Attention
+16696,135,4,301.5,Can't Loose Them
+16697,241,1,0.95,Require Activation
+16698,226,2,1020,Loyal
+16700,80,8,151.55,Can't Loose Them
+16701,129,7,405.48,Can't Loose Them
+16705,74,9,593.94,Can't Loose Them
+16706,98,2,16.35,Potential
+16709,84,5,175.2,Can't Loose Them
+16710,74,6,70.38,Can't Loose Them
+16711,140,1,41.4,Potential
+16712,95,8,117.94,Can't Loose Them
+16713,73,8,106.55,Can't Loose Them
+16714,218,1,15,Require Activation
+16715,78,1,6.96,Potential
+16716,266,1,166.8,Potential
+16717,95,3,52.82,Can't Loose Them
+16719,74,3,29.6,Can't Loose Them
+16721,262,1,2.6,Require Activation
+16722,99,7,213.34,Can't Loose Them
+16723,91,2,177.75,Can't Loose Them
+16726,196,1,31.8,Needs Attention
+16728,166,3,11.17,Potential
+16729,70,19,276.29,Can't Loose Them
+16730,234,1,14.5,Require Activation
+16734,114,2,4.6,Potential
+16735,78,4,51.82,Can't Loose Them
+16739,176,1,19.8,Promising
+16743,113,5,59.73,Can't Loose Them
+16744,75,4,8.45,Can't Loose Them
+16745,86,13,393.28,Can't Loose Them
+16746,75,11,184.1,Can't Loose Them
+16748,217,1,20.8,Needs Attention
+16750,73,4,22.34,Can't Loose Them
+16755,114,2,21,Loyal
+16756,214,1,15,Require Activation
+16761,96,1,46.8,Loyal
+16762,144,1,35.4,Promising
+16763,198,1,89.7,Promising
+16764,72,6,18.85,Can't Loose Them
+16766,273,2,54.9,Potential
+16767,93,6,217.29,Can't Loose Them
+16768,103,2,28.9,Loyal
+16769,260,1,5.9,Require Activation
+16770,236,1,1.7,Require Activation
+16771,75,2,22.53,Champions
+16774,116,3,38.95,Can't Loose Them
+16775,72,6,45.55,Can't Loose Them
+16777,80,2,14.11,Loyal
+16778,74,2,23.28,Champions
+16779,71,10,471.6,Can't Loose Them
+16780,100,2,26.25,Loyal
+16782,77,7,131.75,Can't Loose Them
+16788,123,2,2.44,Promising
+16791,122,4,25.27,Champions
+16792,282,2,13.7,Needs Attention
+16794,89,5,28.48,Can't Loose Them
+16796,89,1,6.64,Promising
+16801,163,4,68.35,Can't Loose Them
+16804,270,1,1.45,Require Activation
+16805,173,1,1.25,Needs Attention
+16806,103,4,46.74,Can't Loose Them
+16807,142,3,49.98,Champions
+16808,99,2,74.25,Champions
+16809,136,3,16.2,Potential
+16810,192,1,20.8,Needs Attention
+16813,78,8,28.82,Can't Loose Them
+16814,87,10,248.25,Can't Loose Them
+16816,103,2,35.85,Champions
+16817,185,5,73.1,Champions
+16818,71,10,173.05,Can't Loose Them
+16820,95,1,23.4,Potential
+16823,227,1,8.25,Require Activation
+16824,164,1,22.5,Promising
+16825,185,1,79.2,Promising
+16828,93,2,27.6,Loyal
+16829,156,1,12.6,Needs Attention
+16832,184,3,99.35,Champions
+16833,259,2,32.4,Promising
+16834,227,1,30,Needs Attention
+16835,128,1,15.9,Needs Attention
+16836,116,1,76.32,Loyal
+16837,157,9,441.22,Can't Loose Them
+16838,197,1,9.96,Require Activation
+16839,74,19,1650.44,Can't Loose Them
+16841,137,4,47.92,Can't Loose Them
+16842,100,2,23.5,Loyal
+16843,93,11,291.58,Can't Loose Them
+16849,186,1,17.7,Needs Attention
+16852,176,1,6.6,Needs Attention
+16859,144,2,25.08,Potential
+16861,158,1,35.4,Promising
+16866,140,3,119.85,Can't Loose Them
+16869,165,2,10.75,Promising
+16871,89,5,173.6,Can't Loose Them
+16872,77,3,285.27,Can't Loose Them
+16873,127,3,82.1,Champions
+16875,144,1,31.6,Promising
+16877,152,2,20.7,Potential
+16878,84,1,9.5,Potential
+16880,99,6,35.91,Can't Loose Them
+16882,239,1,11.8,Require Activation
+16883,187,1,7.95,Require Activation
+16889,194,2,22.71,Promising
+16891,95,2,23.7,Loyal
+16892,183,1,7.95,Require Activation
+16898,177,1,0.38,Needs Attention
+16899,89,3,22.35,Champions
+16902,116,1,37.5,Loyal
+16904,94,10,163.6,Can't Loose Them
+16905,236,2,38.7,Potential
+16906,81,4,35,Can't Loose Them
+16907,148,2,14.25,Promising
+16909,72,1,77.76,Champions
+16910,77,4,11,Can't Loose Them
+16912,134,4,107.46,Can't Loose Them
+16915,127,4,64.5,Can't Loose Them
+16917,276,1,122.4,Potential
+16918,95,2,34.9,Loyal
+16919,156,9,192.45,Can't Loose Them
+16923,99,11,356.2,Can't Loose Them
+16924,84,1,1.65,Potential
+16927,115,2,269.1,Can't Loose Them
+16928,80,14,148.99,Can't Loose Them
+16929,71,3,59.5,Can't Loose Them
+16931,75,11,43.32,Can't Loose Them
+16933,239,1,15.9,Require Activation
+16938,179,2,19.65,Potential
+16940,169,1,6.8,Needs Attention
+16942,136,7,61.1,Can't Loose Them
+16943,211,2,98.8,Loyal
+16945,85,11,205.61,Can't Loose Them
+16947,235,1,27.04,Needs Attention
+16948,138,2,67.2,Loyal
+16949,185,3,62.04,Loyal
+16950,124,1,81.6,Potential
+16951,134,2,32.7,Potential
+16952,109,2,12.19,Potential
+16954,124,3,189.15,Can't Loose Them
+16955,184,1,16.35,Require Activation
+16957,239,2,102.6,Loyal
+16959,87,1,12.75,Promising
+16960,252,1,1.95,Require Activation
+16961,116,1,20,Potential
+16963,187,1,15,Require Activation
+16965,226,1,9.12,Require Activation
+16966,170,4,193.56,Can't Loose Them
+16967,189,1,15,Require Activation
+16968,107,1,14.85,Promising
+16969,134,2,31.62,Potential
+16976,267,1,76.32,Promising
+16978,77,1,8.5,Potential
+16979,147,1,45,Potential
+16980,255,1,17.4,Needs Attention
+16983,96,3,52.35,Can't Loose Them
+16984,88,2,8.85,Potential
+16985,88,6,216.4,Can't Loose Them
+16987,170,3,28.7,Loyal
+16989,79,3,200.95,Can't Loose Them
+16990,218,1,179,Potential
+16992,98,2,37.2,Champions
+16996,121,3,182.2,Can't Loose Them
+16998,149,3,205,Can't Loose Them
+16999,74,1,15,Potential
+17001,91,6,87.6,Can't Loose Them
+17002,85,2,83,Can't Loose Them
+17004,92,1,1.25,Promising
+17006,75,1,33,Loyal
+17007,155,3,49.4,Champions
+17015,71,2,26.1,Champions
+17017,72,9,299.58,Can't Loose Them
+17019,261,1,2.55,Require Activation
+17024,99,2,56.25,Champions
+17026,185,1,121.68,Potential
+17027,78,4,33.25,Can't Loose Them
+17029,110,2,716,Can't Loose Them
+17031,154,1,20.8,Promising
+17033,86,2,158.16,Can't Loose Them
+17034,79,1,5.04,Potential
+17035,245,1,13.52,Require Activation
+17037,87,1,25.5,Potential
+17040,137,1,175.2,Loyal
+17041,108,1,15.6,Promising
+17042,121,4,68.52,Can't Loose Them
+17043,178,2,113,Champions
+17045,113,3,56.46,Can't Loose Them
+17046,157,1,30,Promising
+17047,85,3,55.26,Can't Loose Them
+17048,117,2,55.55,Champions
+17049,84,6,111.78,Can't Loose Them
+17050,96,4,53.25,Can't Loose Them
+17051,194,1,2.5,Require Activation
+17053,130,1,35.4,Promising
+17054,137,4,69.33,Can't Loose Them
+17058,81,3,58.4,Can't Loose Them
+17059,110,3,43.09,Can't Loose Them
+17060,266,1,17.7,Needs Attention
+17061,73,11,710.98,Can't Loose Them
+17063,163,2,40.9,Loyal
+17064,182,1,20.8,Promising
+17068,84,13,310.4,Can't Loose Them
+17069,77,5,59.87,Can't Loose Them
+17070,114,1,3.95,Promising
+17071,88,6,116,Can't Loose Them
+17073,82,2,9.58,Loyal
+17075,253,1,8.32,Require Activation
+17076,273,1,25.5,Needs Attention
+17079,78,1,59.4,Champions
+17080,269,1,76.32,Promising
+17083,109,1,53.1,Loyal
+17085,123,2,18.8,Potential
+17088,72,3,56.42,Can't Loose Them
+17090,88,3,234.37,Can't Loose Them
+17091,98,5,68.09,Can't Loose Them
+17092,87,3,30.89,Champions
+17096,143,2,29.24,Potential
+17097,100,4,18.15,Can't Loose Them
+17101,178,1,15.8,Needs Attention
+17102,261,1,25.5,Needs Attention
+17105,159,1,8.5,Needs Attention
+17107,75,4,403.5,Can't Loose Them
+17109,232,2,8.8,Needs Attention
+17110,165,1,16.5,Needs Attention
+17114,138,4,27.8,Champions
+17115,182,2,39.8,Loyal
+17120,233,1,16.5,Require Activation
+17122,119,1,19.8,Promising
+17123,161,1,25.2,Promising
+17124,185,1,15.9,Require Activation
+17126,152,3,6.76,Potential
+17131,75,1,15,Potential
+17133,87,4,635.9,Can't Loose Them
+17134,106,2,35.45,Loyal
+17138,275,1,17.9,Needs Attention
+17139,88,7,170.42,Can't Loose Them
+17140,247,1,7.5,Require Activation
+17142,239,1,35.85,Promising
+17144,84,1,15,Potential
+17146,105,2,184.85,Can't Loose Them
+17147,80,2,30,Champions
+17152,194,3,195.55,Champions
+17154,75,1,24.96,Loyal
+17155,177,1,4.4,Needs Attention
+17157,176,1,19.8,Promising
+17158,232,1,45,Promising
+17159,75,2,59.45,Can't Loose Them
+17160,109,5,84.46,Can't Loose Them
+17162,131,8,102.2,Can't Loose Them
+17163,78,1,29.7,Loyal
+17164,79,4,60.3,Can't Loose Them
+17166,203,1,14.85,Require Activation
+17169,183,1,15.3,Require Activation
+17172,78,1,13.92,Potential
+17173,116,2,70.8,Champions
+17174,217,1,19.5,Needs Attention
+17175,141,2,82.45,Loyal
+17176,201,1,10.2,Require Activation
+17179,178,2,1.72,Promising
+17180,241,2,7.68,Needs Attention
+17183,105,1,19.8,Potential
+17187,226,1,30.6,Needs Attention
+17188,164,2,28.9,Potential
+17189,106,1,5.04,Promising
+17190,207,1,195,Potential
+17191,94,3,47.25,Can't Loose Them
+17193,86,3,199.32,Can't Loose Them
+17194,273,1,10,Require Activation
+17204,175,4,149.46,Can't Loose Them
+17211,180,3,23.6,Loyal
+17212,253,1,3.95,Require Activation
+17213,141,2,37.62,Loyal
+17214,85,2,92.8,Can't Loose Them
+17217,234,1,11.8,Require Activation
+17218,71,3,16.74,Can't Loose Them
+17220,71,9,71.43,Can't Loose Them
+17227,70,3,27.9,Can't Loose Them
+17228,87,2,13.26,Potential
+17229,96,2,4.15,Potential
+17230,264,1,25.2,Needs Attention
+17231,126,4,19.2,Champions
+17234,182,1,4.95,Needs Attention
+17236,179,2,23.15,Potential
+17238,84,9,45.39,Can't Loose Them
+17242,108,2,99.6,Can't Loose Them
+17243,78,10,181.95,Can't Loose Them
+17245,204,1,15.3,Require Activation
+17248,120,1,4.95,Needs Attention
+17250,261,1,19.95,Needs Attention
+17252,116,2,13.35,Potential
+17256,107,1,89.7,Loyal
+17259,148,1,2.08,Needs Attention
+17262,227,3,501.55,Champions
+17263,208,1,0.95,Require Activation
+17265,138,2,7.88,Promising
+17266,147,1,3.75,Needs Attention
+17267,127,2,26.4,Potential
+17268,107,4,449.12,Can't Loose Them
+17272,199,2,35.4,Promising
+17277,227,1,19.9,Needs Attention
+17278,241,1,25.5,Needs Attention
+17282,130,2,457.92,Champions
+17284,120,4,22.41,Champions
+17287,74,4,20.73,Can't Loose Them
+17288,207,2,75,Potential
+17289,180,1,7.95,Needs Attention
+17293,85,4,118.3,Can't Loose Them
+17298,101,2,37.83,Champions
+17299,89,3,37.44,Can't Loose Them
+17302,122,2,4.55,Promising
+17306,71,13,1647.96,Can't Loose Them
+17309,95,1,4.95,Promising
+17311,78,1,30,Loyal
+17312,138,3,267.75,Can't Loose Them
+17314,148,3,78.75,Champions
+17315,75,25,527.34,Can't Loose Them
+17317,89,1,119.52,Champions
+17320,100,2,43.75,Champions
+17323,124,3,11.39,Potential
+17325,280,1,11.7,Require Activation
+17331,123,1,175.2,Loyal
+17333,85,1,39.6,Champions
+17337,151,3,31.44,Loyal
+17338,114,4,61.8,Can't Loose Them
+17339,94,1,82.8,Loyal
+17340,80,8,165.42,Can't Loose Them
+17341,156,2,24.46,Potential
+17345,93,3,42.73,Can't Loose Them
+17346,103,5,14.97,Champions
+17347,86,1,228.96,Champions
+17348,71,1,15,Potential
+17349,179,1,12.75,Needs Attention
+17351,169,2,37.05,Loyal
+17353,129,2,435,Champions
+17360,184,1,4.25,Require Activation
+17361,186,1,0.42,Require Activation
+17362,239,1,7.25,Require Activation
+17364,137,4,124.46,Can't Loose Them
+17365,87,4,20.7,Can't Loose Them
+17367,238,1,17.4,Needs Attention
+17368,93,4,278.41,Can't Loose Them
+17370,72,4,69.96,Can't Loose Them
+17372,166,3,15.55,Potential
+17373,71,2,49.68,Can't Loose Them
+17374,218,2,30.9,Promising
+17375,199,1,4.25,Require Activation
+17376,70,1,6.6,Potential
+17377,74,6,43.38,Can't Loose Them
+17381,99,16,2426.88,Can't Loose Them
+17384,219,1,5.95,Require Activation
+17386,99,5,424.86,Can't Loose Them
+17388,77,3,395.6,Can't Loose Them
+17389,74,21,2232.1,Can't Loose Them
+17391,163,2,305.28,Champions
+17394,219,1,9.95,Require Activation
+17396,148,5,1298.4,Can't Loose Them
+17398,114,3,72.3,Can't Loose Them
+17400,126,4,26.75,Champions
+17402,85,6,349.02,Can't Loose Them
+17404,87,8,1006,Can't Loose Them
+17405,72,2,22.74,Champions
+17408,163,1,12.75,Needs Attention
+17409,184,2,77.65,Potential
+17410,96,2,36.3,Champions
+17411,75,2,30.02,Champions
+17412,196,1,16.5,Require Activation
+17414,184,1,14.4,Require Activation
+17415,79,1,170,Can't Loose Them
+17416,77,6,474.45,Can't Loose Them
+17419,143,4,72.8,Can't Loose Them
+17420,171,1,19.9,Promising
+17422,93,4,89.96,Can't Loose Them
+17423,217,1,13.5,Require Activation
+17426,91,4,98.1,Can't Loose Them
+17427,71,1,30,Loyal
+17428,85,15,879.04,Can't Loose Them
+17429,128,3,33.52,Loyal
+17433,88,1,0.85,Promising
+17434,85,1,83.4,Champions
+17436,226,1,45.9,Promising
+17438,253,1,25.5,Needs Attention
+17440,156,3,140.22,Can't Loose Them
+17442,93,4,82.2,Can't Loose Them
+17443,219,1,534.24,Potential
+17444,147,3,587.54,Can't Loose Them
+17446,176,1,13.2,Needs Attention
+17447,71,1,15.3,Potential
+17449,94,3,33.66,Champions
+17450,70,28,18009.06,Can't Loose Them
+17451,81,2,26.8,Champions
+17454,192,2,27.4,Promising
+17455,203,1,16.5,Require Activation
+17457,126,3,639.04,Can't Loose Them
+17460,94,3,53.4,Can't Loose Them
+17463,176,2,35.1,Potential
+17464,158,1,71.4,Potential
+17466,78,1,14.85,Potential
+17469,72,4,99.1,Can't Loose Them
+17470,127,3,59.4,Champions
+17472,191,1,3,Require Activation
+17475,79,1,26.1,Loyal
+17480,77,1,35.4,Loyal
+17481,93,1,9.36,Promising
+17483,134,2,40.8,Loyal
+17486,261,1,17,Needs Attention
+17489,212,1,15,Require Activation
+17490,73,3,51.45,Can't Loose Them
+17491,74,5,197.85,Can't Loose Them
+17492,248,1,10.2,Require Activation
+17498,75,1,15,Potential
+17501,220,2,25.95,Promising
+17504,206,7,250.48,Can't Loose Them
+17505,161,2,49.65,Loyal
+17506,75,1,25,Loyal
+17507,261,1,5.2,Require Activation
+17508,280,1,9.9,Require Activation
+17511,73,17,1740.83,Can't Loose Them
+17512,121,5,306.6,Can't Loose Them
+17513,72,1,70.8,Champions
+17514,128,1,2.95,Needs Attention
+17515,206,2,18.65,Promising
+17516,119,2,2.25,Promising
+17519,133,4,90.8,Can't Loose Them
+17521,199,1,10.2,Require Activation
+17522,138,4,25.7,Champions
+17527,80,3,88.71,Can't Loose Them
+17528,71,2,21,Champions
+17530,85,5,88.28,Can't Loose Them
+17531,190,1,15.9,Require Activation
+17535,280,1,10.2,Require Activation
+17536,177,1,25.5,Promising
+17542,269,1,20.4,Needs Attention
+17548,233,1,30,Needs Attention
+17550,197,3,5.65,Promising
+17552,71,1,23.4,Loyal
+17553,129,1,237.6,Loyal
+17554,122,2,18.06,Potential
+17556,205,1,10.5,Require Activation
+17557,81,1,7.95,Potential
+17560,94,3,125.8,Can't Loose Them
+17562,87,5,107.88,Can't Loose Them
+17564,80,1,8.85,Potential
+17567,92,4,64.99,Can't Loose Them
+17571,145,2,45.65,Loyal
+17572,71,3,69.9,Can't Loose Them
+17573,85,2,22.5,Champions
+17574,242,1,35.7,Needs Attention
+17576,73,11,81.46,Can't Loose Them
+17578,218,1,18.72,Needs Attention
+17579,137,2,41.3,Loyal
+17580,252,1,47.7,Promising
+17581,78,16,641.89,Can't Loose Them
+17582,236,1,1.74,Require Activation
+17584,127,1,39.6,Potential
+17585,109,3,12.73,Loyal
+17588,100,3,289.02,Can't Loose Them
+17589,151,3,23.95,Loyal
+17591,73,4,125.8,Can't Loose Them
+17593,91,3,77.93,Can't Loose Them
+17594,85,2,67,Can't Loose Them
+17596,136,3,42.83,Champions
+17597,213,1,19.8,Needs Attention
+17601,239,1,30,Needs Attention
+17602,85,2,20.8,Champions
+17603,78,1,9.9,Potential
+17604,217,1,4.2,Require Activation
+17609,73,1,16.9,Loyal
+17611,72,7,74.97,Can't Loose Them
+17612,95,4,42.72,Can't Loose Them
+17613,81,8,176.95,Can't Loose Them
+17615,130,3,44.3,Champions
+17616,173,2,244.8,Champions
+17618,248,1,30,Needs Attention
+17624,218,1,35.8,Promising
+17625,140,2,11.05,Promising
+17628,81,1,16.35,Potential
+17629,120,4,56.34,Can't Loose Them
+17630,169,2,43.2,Loyal
+17631,137,2,34.65,Potential
+17633,71,3,75.81,Can't Loose Them
+17634,92,6,77.4,Can't Loose Them
+17637,115,1,19.8,Potential
+17639,276,1,19.9,Needs Attention
+17640,86,1,107.28,Champions
+17642,119,2,20.94,Potential
+17644,78,8,179.85,Can't Loose Them
+17646,219,2,32.7,Promising
+17648,192,3,47.4,Loyal
+17649,138,1,15,Needs Attention
+17651,79,5,122.8,Can't Loose Them
+17652,84,7,166.55,Can't Loose Them
+17653,99,2,40.1,Champions
+17654,277,1,7.5,Require Activation
+17655,116,2,64.6,Champions
+17656,73,5,111.66,Can't Loose Them
+17658,211,1,45,Promising
+17659,100,6,119.43,Can't Loose Them
+17660,141,1,3.75,Needs Attention
+17663,84,4,57.04,Can't Loose Them
+17664,212,1,13.2,Require Activation
+17667,161,3,64.72,Champions
+17669,85,6,213.3,Can't Loose Them
+17670,227,1,31.8,Needs Attention
+17671,157,2,53.8,Loyal
+17673,162,3,41.6,Champions
+17674,74,1,5.04,Potential
+17675,70,19,603.51,Can't Loose Them
+17676,109,3,56,Can't Loose Them
+17677,82,16,765.51,Can't Loose Them
+17678,263,1,17.4,Needs Attention
+17679,85,1,61.2,Champions
+17682,115,4,119.54,Can't Loose Them
+17685,88,2,110.4,Can't Loose Them
+17686,80,5,84.06,Can't Loose Them
+17690,101,6,107.65,Can't Loose Them
+17692,127,2,59.52,Loyal
+17693,137,1,15,Needs Attention
+17694,141,1,30,Promising
+17695,131,2,36.6,Loyal
+17696,108,5,100.68,Can't Loose Them
+17697,236,1,12.6,Require Activation
+17698,260,1,17.4,Needs Attention
+17700,94,3,111.6,Can't Loose Them
+17701,252,1,17,Needs Attention
+17702,108,3,212.1,Can't Loose Them
+17703,109,2,33,Loyal
+17704,168,2,60.3,Loyal
+17705,74,6,116.5,Can't Loose Them
+17706,100,8,199.55,Can't Loose Them
+17707,185,1,51,Promising
+17708,187,1,3.75,Require Activation
+17709,169,1,11.9,Needs Attention
+17715,200,1,326.4,Potential
+17716,75,9,164.4,Can't Loose Them
+17718,232,1,20.4,Needs Attention
+17719,75,14,300.19,Can't Loose Them
+17720,113,2,84.32,Champions
+17722,96,2,45,Champions
+17723,127,6,3112.5,Can't Loose Them
+17724,71,3,68.4,Can't Loose Them
+17725,70,9,196.9,Can't Loose Them
+17728,86,1,15.9,Promising
+17730,78,7,222.15,Can't Loose Them
+17731,79,4,101.41,Can't Loose Them
+17733,261,1,17,Needs Attention
+17734,136,2,44.64,Loyal
+17735,93,13,281.3,Can't Loose Them
+17736,113,1,9.36,Promising
+17738,148,3,88.5,Champions
+17739,71,2,126.9,Can't Loose Them
+17742,113,1,25.5,Potential
+17744,250,1,23.4,Needs Attention
+17746,240,1,31.6,Needs Attention
+17747,112,1,71.4,Loyal
+17749,178,2,29.25,Potential
+17750,82,6,80.69,Can't Loose Them
+17754,142,2,24.54,Potential
+17757,70,14,359.46,Can't Loose Them
+17758,79,5,66.1,Can't Loose Them
+17759,169,2,25.2,Potential
+17763,263,1,15,Require Activation
+17764,211,1,8.25,Require Activation
+17765,158,3,27.55,Loyal
+17768,166,1,10.5,Needs Attention
+17769,138,3,19.4,Loyal
+17770,198,5,132.65,Can't Loose Them
+17774,96,3,16.8,Champions
+17775,254,1,15.6,Require Activation
+17777,100,1,11.8,Promising
+17779,87,2,22.81,Loyal
+17781,159,2,15.7,Promising
+17783,72,2,7.91,Loyal
+17786,85,1,8.85,Potential
+17787,152,1,2.37,Needs Attention
+17788,73,2,283.5,Can't Loose Them
+17789,281,1,12.75,Require Activation
+17790,120,6,61.3,Can't Loose Them
+17795,179,2,11,Promising
+17797,182,1,14.95,Needs Attention
+17799,99,6,75.2,Can't Loose Them
+17800,91,6,49.4,Can't Loose Them
+17802,82,2,19.05,Champions
+17805,73,1,30.24,Loyal
+17809,129,4,693.6,Can't Loose Them
+17811,73,19,208.08,Can't Loose Them
+17813,71,1,4.25,Potential
+17816,269,1,5.1,Require Activation
+17817,277,2,197.5,Loyal
+17819,71,4,596.34,Can't Loose Them
+17827,242,1,3.9,Require Activation
+17828,109,3,61.85,Can't Loose Them
+17830,261,1,31.8,Needs Attention
+17837,75,4,22.22,Can't Loose Them
+17838,89,1,125,Champions
+17841,72,66,570.07,Can't Loose Them
+17844,106,1,15,Promising
+17846,85,1,2033.1,Can't Loose Them
+17848,81,6,268.62,Can't Loose Them
+17849,218,2,21.35,Promising
+17854,185,2,18.15,Promising
+17856,233,3,202.1,Champions
+17857,72,12,4644.68,Can't Loose Them
+17858,82,6,191.85,Can't Loose Them
+17861,136,4,83.51,Can't Loose Them
+17863,80,3,120.28,Can't Loose Them
+17864,89,2,19.55,Loyal
+17865,79,13,631.76,Can't Loose Them
+17866,142,1,17.7,Promising
+17867,143,3,903.13,Can't Loose Them
+17869,107,4,50.55,Can't Loose Them
+17870,71,7,77.74,Can't Loose Them
+17871,204,1,5.76,Require Activation
+17873,80,4,359.06,Can't Loose Them
+17874,185,6,108.11,Can't Loose Them
+17877,170,1,59.4,Potential
+17879,173,1,1.16,Needs Attention
+17883,86,2,13.2,Potential
+17886,210,2,20.7,Promising
+17887,129,1,1.65,Needs Attention
+17888,79,3,24.95,Can't Loose Them
+17889,212,1,6.95,Require Activation
+17891,162,1,20.4,Promising
+17892,155,1,9.95,Needs Attention
+17893,225,1,3.25,Require Activation
+17894,71,2,11.05,Loyal
+17897,172,1,7.95,Needs Attention
+17898,85,2,10.8,Loyal
+17899,159,1,13.68,Needs Attention
+17900,190,2,32.4,Promising
+17905,71,2,182.9,Can't Loose Them
+17906,247,1,2.85,Require Activation
+17917,256,1,1.6,Require Activation
+17919,88,1,70.8,Loyal
+17920,78,7,89.98,Can't Loose Them
+17921,148,3,17.82,Loyal
+17923,282,1,207.5,Potential
+17926,133,2,53.1,Loyal
+17928,246,1,1.25,Require Activation
+17929,112,2,510.8,Can't Loose Them
+17930,71,3,162.6,Can't Loose Them
+17931,134,2,5.7,Promising
+17932,173,2,28.2,Potential
+17935,138,2,23.62,Potential
+17937,114,2,326.04,Can't Loose Them
+17939,159,1,1.9,Needs Attention
+17940,108,8,2497.48,Can't Loose Them
+17941,130,1,139.2,Loyal
+17946,233,2,9.33,Needs Attention
+17948,147,1,358.56,Loyal
+17949,70,32,22504.73,Can't Loose Them
+17950,72,1,10.5,Potential
+17954,123,6,52.04,Can't Loose Them
+17955,198,4,197.1,Can't Loose Them
+17956,249,1,12.75,Require Activation
+17958,116,1,4.16,Promising
+17960,171,1,1.65,Needs Attention
+17961,70,29,107.33,Can't Loose Them
+17962,142,1,2.95,Needs Attention
+17965,91,8,90.9,Can't Loose Them
+17966,151,4,71.67,Can't Loose Them
+17969,166,1,8.25,Needs Attention
+17970,211,1,12.5,Require Activation
+17972,241,1,6.95,Require Activation
+17974,219,1,15.8,Require Activation
+17975,114,7,230.22,Can't Loose Them
+17979,168,3,13.62,Potential
+17980,165,2,45.8,Loyal
+17984,145,1,12.75,Needs Attention
+17987,185,1,1.68,Require Activation
+17988,117,4,24.5,Can't Loose Them
+17990,236,1,33,Needs Attention
+17991,225,2,5.9,Needs Attention
+17994,121,3,42.75,Champions
+17995,281,1,23.6,Needs Attention
+17997,74,8,73.42,Can't Loose Them
+18001,86,1,2.55,Promising
+18008,70,8,1831.34,Can't Loose Them
+18009,235,1,20.25,Needs Attention
+18010,256,1,12.75,Require Activation
+18013,155,2,13.98,Promising
+18016,74,2,35.4,Champions
+18017,81,2,358,Can't Loose Them
+18018,108,2,42.7,Champions
+18024,152,2,57.15,Loyal
+18027,98,1,15.3,Promising
+18036,105,2,4.05,Potential
+18037,154,4,6.55,Loyal
+18040,245,1,15,Require Activation
+18041,70,11,336.55,Can't Loose Them
+18043,206,1,4.95,Require Activation
+18044,87,7,89.78,Can't Loose Them
+18048,203,2,4.75,Needs Attention
+18053,70,1,19.8,Loyal
+18055,84,3,80.1,Can't Loose Them
+18061,107,5,239.55,Can't Loose Them
+18062,173,2,67.2,Loyal
+18064,133,2,383,Champions
+18065,86,8,154.14,Can't Loose Them
+18066,75,1,70.8,Champions
+18069,88,3,30.25,Champions
+18071,257,1,45,Promising
+18072,185,1,15,Require Activation
+18073,114,12,1724.1,Can't Loose Them
+18075,106,5,125.4,Can't Loose Them
+18077,103,4,38.65,Can't Loose Them
+18078,217,2,101.7,Loyal
+18079,126,2,73.04,Loyal
+18080,242,1,841.5,Potential
+18081,112,2,44.35,Champions
+18086,274,1,10.08,Require Activation
+18087,98,1,852.8,Champions
+18092,86,5,357.36,Can't Loose Them
+18093,93,2,201.6,Can't Loose Them
+18094,81,6,212.1,Can't Loose Them
+18097,126,3,85.08,Champions
+18099,127,1,7.95,Needs Attention
+18101,143,1,2.95,Needs Attention
+18102,72,34,26632.62,Can't Loose Them
+18108,254,1,16.8,Needs Attention
+18109,72,13,187.78,Can't Loose Them
+18112,166,1,25,Promising
+18116,234,3,26.04,Potential
+18118,77,15,213.72,Can't Loose Them
+18120,214,1,4.95,Require Activation
+18121,149,2,16.25,Promising
+18122,84,2,14.3,Loyal
+18125,201,1,26.55,Needs Attention
+18127,133,1,17.7,Promising
+18129,243,1,2.95,Require Activation
+18133,212,1,931.5,Potential
+18135,80,2,23.95,Champions
+18136,211,1,22.5,Needs Attention
+18142,157,2,120.96,Champions
+18143,116,2,36.7,Champions
+18144,78,7,822.8,Can't Loose Them
+18145,87,2,21,Loyal
+18146,140,2,35.4,Potential
+18147,108,1,18.96,Potential
+18149,215,2,136.15,Loyal
+18150,140,2,20.28,Potential
+18151,134,1,16.5,Needs Attention
+18155,75,2,33.6,Champions
+18158,88,1,23.6,Potential
+18160,200,1,20.8,Needs Attention
+18161,140,2,80.25,Loyal
+18165,177,1,4.56,Needs Attention
+18167,105,1,35.4,Potential
+18168,176,3,17.65,Loyal
+18170,112,2,25.08,Loyal
+18171,99,3,102.55,Can't Loose Them
+18172,78,12,1275.92,Can't Loose Them
+18173,86,4,439.2,Can't Loose Them
+18177,157,5,82.1,Can't Loose Them
+18178,128,2,26.6,Potential
+18179,252,2,227.7,Loyal
+18180,80,4,75,Can't Loose Them
+18183,227,2,29.95,Promising
+18185,249,1,11.7,Require Activation
+18188,77,1,15,Potential
+18189,77,2,31.5,Champions
+18190,192,1,15.6,Require Activation
+18191,261,1,30.6,Needs Attention
+18192,71,1,16.5,Potential
+18193,165,1,19.9,Promising
+18194,82,1,208.8,Can't Loose Them
+18196,95,1,4.15,Promising
+18198,71,12,1589.5,Can't Loose Them
+18200,106,1,5.95,Promising
+18202,199,2,54.6,Potential
+18203,157,1,4.95,Needs Attention
+18204,71,3,21.25,Can't Loose Them
+18205,74,1,12.75,Potential
+18210,267,1,30,Needs Attention
+18211,85,3,56.9,Can't Loose Them
+18213,236,1,15,Require Activation
+18215,89,1,23.6,Potential
+18217,70,1,19.8,Loyal
+18218,211,2,160.6,Loyal
+18219,149,5,118,Can't Loose Them
+18220,226,1,152.64,Potential
+18221,115,3,57,Can't Loose Them
+18222,92,1,40.56,Loyal
+18223,96,7,153.85,Can't Loose Them
+18224,263,1,10.2,Require Activation
+18225,84,6,133.6,Can't Loose Them
+18226,81,9,195.12,Can't Loose Them
+18227,217,1,15,Require Activation
+18228,79,1,20.28,Loyal
+18229,70,12,936.26,Can't Loose Them
+18230,94,4,192,Can't Loose Them
+18231,192,4,64.8,Champions
+18232,81,4,63.3,Can't Loose Them
+18235,71,3,38.28,Can't Loose Them
+18236,79,5,109.65,Can't Loose Them
+18237,91,3,47.25,Can't Loose Them
+18239,218,2,27.9,Promising
+18241,74,13,269.91,Can't Loose Them
+18242,72,4,270.6,Can't Loose Them
+18245,149,4,73.4,Can't Loose Them
+18246,233,1,203.4,Potential
+18248,122,2,48.45,Loyal
+18251,87,1,252,Champions
+18252,171,1,19.8,Promising
+18255,89,1,30,Potential
+18257,114,3,54.6,Can't Loose Them
+18259,85,1,25.2,Loyal
+18260,172,4,75.57,Can't Loose Them
+18261,95,1,17,Potential
+18262,140,1,2.88,Needs Attention
+18263,155,2,45.6,Loyal
+18265,72,2,42.8,Can't Loose Them
+18268,134,1,25.5,Promising
+18270,266,1,19.8,Needs Attention
+18272,113,4,50.24,Can't Loose Them
+18273,95,2,153,Can't Loose Them
+18278,73,1,17,Loyal
+18280,277,1,23.7,Needs Attention
+18281,180,1,5.04,Needs Attention
+18282,126,1,12.75,Needs Attention
+18283,95,7,35.95,Can't Loose Them
+18287,201,1,10.2,Require Activation
